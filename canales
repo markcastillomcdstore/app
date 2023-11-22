@@ -1855,6 +1855,16 @@
     "name": "BOLIVIA",
     "samples": [
       {
+        "name": "MARKVISION TV HD",
+        "uri": "NAp6BbWunJVyuP2zdrZbqPUel4Illyb/fWnV+vv83q+cgRv9vJC97u2D4fzxXwxK0bNAfFGshsjDnAaAR5zknQ==",
+        "icono": "https://i.ibb.co/kgsD31N/MARKVISION-HD"
+      },
+{
+        "name": "RTVE PUNATA HD",
+        "uri": "NAp6BbWunJVyuP2zdrZbqIklDltpoPAtOwVfGWIFg65Kxc2cpOmLXgsqYEUZXYGzHQSmHl5Ns+ADgueuPySi/Q==",
+        "icono": "https://i.ibb.co/444NgrX/RTVE-PUNATA-HD.jpg"
+      },
+{
         "name": "RedADvenir Bolivia",
         "uri": "/RiNF0liZ9snI4iAFBvG+26+3i/9szo0+Dk3+udaSpmTRo35Fa16RcwRjZsHeypBOXBy737iauKSerLZZr3ee7jnKKQhCTQQs7TxQNms7xEsrDPnxW93MT98sX1iIjkP",
         "icono": "https://redadvenir.org/redadvenir/images/logo.png"
