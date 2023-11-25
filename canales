@@ -2415,13 +2415,8 @@
         "name": "LATINA Y PAYSANDU",
         "uri": "bPVdeGPTuhbcdkidkYMunOk1jeYKSx4RYzXK9fkyBNpYlY3ooajIL5JaF3cqU9/nusHPkZowYnkUQS+UEUgg2A==",
         "icono": "https://i.ibb.co/x25jqsr/l3z-BYs-Zw-400x400.jpg"
-      }
-    ]
-  },
+      },
 {
-    "name": "URUGUAY 2",
-    "samples": [
-        {
             "name": "CANAL 7 PUNTA DEL ESTE",
             "uri": "http://multiextrem.xyz:80/play/q2BASytLPAB5mwoHTx5J9kKcaEsbrYZL07mj28x6WH6-sxBbaHxUoEX3a0pB3NLq",
             "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Canal7TWnlhy.png/150px-Canal7TWnlhy.png"
@@ -2477,7 +2472,7 @@
             "icono": "https://i.ibb.co/C0zbnTb/Teleplay-1-1.png"
         }
     ]
-},
+  },
   {
     "name": "CHILE",
     "samples": [
