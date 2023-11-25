@@ -2418,6 +2418,66 @@
       }
     ]
   },
+{
+    "name": "URUGUAY",
+    "samples": [
+        {
+            "name": "CANAL 7 PUNTA DEL ESTE",
+            "uri": "http://multiextrem.xyz:80/play/q2BASytLPAB5mwoHTx5J9kKcaEsbrYZL07mj28x6WH6-sxBbaHxUoEX3a0pB3NLq",
+            "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Canal7TWnlhy.png/150px-Canal7TWnlhy.png"
+        },
+        {
+            "name": "1000 X Hora TV",
+            "uri": "http://multiextrem.xyz:80/play/q2BASytLPAB5mwoHTx5J9hSTaZOAOK3YEQl9Jp5z4-tma0z7KQJL0yZpF8OT2UgN",
+            "icono": "https://i.ibb.co/Ss15x9d/1000xhora.webp"
+        },
+        {
+            "name": "A+V",
+            "uri": "http://multiextrem.xyz:80/play/q2BASytLPAB5mwoHTx5J9hSTaZOAOK3YEQl9Jp5z4-ttK_JFpPE2gNfzwV1S0cBR",
+            "icono": "https://i.ibb.co/28yt2BV/AV.jpg"
+        },
+        {
+            "name": "VTV+ EVENTO",
+            "uri": "http://multiextrem.xyz:80/play/q2BASytLPAB5mwoHTx5J9hSTaZOAOK3YEQl9Jp5z4-srha4FV-HvU_GK7WVcLNY5",
+            "icono": "https://i.ibb.co/RB4qVWL/VTV-Plus-2021.webp"
+        },
+        {
+            "name": "VTV+ EVENTO OP2",
+            "uri": "http://multiextrem.xyz:80/play/q2BASytLPAB5mwoHTx5J9kKcaEsbrYZL07mj28x6WH534AT-6c3dVx35mdLYiADv",
+            "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Canal7TWnlhy.png/150px-Canal7TWnlhy.png"
+        },
+        {
+            "name": "DIRECT TV SPORTS",
+            "uri": "http://multiextrem.xyz:80/play/q2BASytLPAB5mwoHTx5J9kKcaEsbrYZL07mj28x6WH6BO4233J6zGQiL67cjDdEr",
+            "icono": "https://i.ibb.co/3rCx43n/512x512bb.jpg"
+        },
+        {
+            "name": "DIRECT TV SPORTS",
+            "uri": "http://multiextrem.xyz:80/play/q2BASytLPAB5mwoHTx5J9kKcaEsbrYZL07mj28x6WH4xoPSoSI0Pz7znto66nfCu",
+            "icono": "https://i.ibb.co/28yt2BV/AV.jpg"
+        },
+        {
+            "name": "TELEPLAY EVENTO - AUF TV",
+            "uri": "http://multiextrem.xyz:80/play/q2BASytLPAB5mwoHTx5J9hSTaZOAOK3YEQl9Jp5z4-uGmuIllEwlTaIM8gCsxgmp",
+            "icono": "https://i.ibb.co/nbR9T20/unnamed-2.webp"
+        },
+        {
+            "name": "TELE PLAY EVENTOS 01",
+            "uri": "http://multiextrem.xyz:80/play/q2BASytLPAB5mwoHTx5J9hSTaZOAOK3YEQl9Jp5z4-upd2ZOJwwjlH4MnSBXdeKV",
+            "icono": "https://i.ibb.co/C0zbnTb/Teleplay-1-1.png"
+        },
+        {
+            "name": "TELE PLAY EVENTOS 02",
+            "uri": "http://multiextrem.xyz:80/play/q2BASytLPAB5mwoHTx5J9hSTaZOAOK3YEQl9Jp5z4-v1rTZMXyS-yqbmLTeFzOw_",
+            "icono": "https://i.ibb.co/C0zbnTb/Teleplay-1-1.png"
+        },
+        {
+            "name": "TELEPLAY EVENTO 03【DEXARY",
+            "uri": "http://multiextrem.xyz:80/play/q2BASytLPAB5mwoHTx5J9hSTaZOAOK3YEQl9Jp5z4-vBHHKUiUkeJha4p9-Av9mD",
+            "icono": "https://i.ibb.co/C0zbnTb/Teleplay-1-1.png"
+        }
+    ]
+},
   {
     "name": "CHILE",
     "samples": [
