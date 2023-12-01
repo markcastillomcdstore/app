@@ -687,6 +687,13 @@
   {
     "name": "UNIVERSAL CANALES",
     "samples": [
+{
+        "name": "TYC SPORT",
+        "uri": "https://edge6162.telecentro.net.ar/bpk-token/2ae@ibnxnu0iu3wr0ebih0cj00o1ifki1ndvixrc1jba/GlobalManifest.mpd",
+        "drm_scheme": "clearkey",
+        "icono": "https://img2.freepng.es/20180723/huc/kisspng-logo-tyc-sports-brand-trademark-mosaic-5b55e9fa8e43a0.5446456715323571145827.jpg",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=5043ff30467548fd08e83041bd5ad4ed&key=245a84fdf333df75c5fb7651d327e25b"
+      },
       {
         "name": "UNIVERSAL COMEDY",
         "uri": "bPVdeGPTuhbcdkidkYMunCWRgSsi/wxqXAJcZ3FaGNXyOdeeUcdGciQ9ko0SKEsR8jfq6Rvo4ANsmPt0t8UgCQ==",
