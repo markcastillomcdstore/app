@@ -110,6 +110,13 @@
   {
     "name": "CINE Y SERIES",
     "samples": [
+{
+        "name": "GOLDEN",
+        "uri": "https://tvup-ccs-live.secure2.footprint.net/goldentvhd/goldentvhd.mpd",
+        "drm_scheme": "clearkey",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png",
+        "drm_license_uri": "https://kk.carlosrf1.repl.co/golden.json"
+      },
       {
         "name": "TCM",
         "uri": "HYj1mQswC+Qz/gW3GNf2Z/KIvc13jEShsv8KSiABbVoDdQ1GOYigq6SRyw+5gtks7wmViEWW4NNOBGYvwQ255IXQP46SUzeNBsGIKHQngNo=",
