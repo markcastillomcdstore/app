@@ -138,6 +138,46 @@
         "icono": "https://i.postimg.cc/vDFCqmpy/cinecanal.png",
         "drm_license_uri": "1Dh0aiPKTARVnGPLLvpMuBvVe2hv5OoR7tEbdi1MCaNSJGBlHSyFMlrn7ySpa1rJ01rcNZJ8ArCpJAPLzZ0Zg5IxWxreQaZ2Ucyw6pJ35blhvaaE7Fshp8QoLoZdWS3D1pTIDOpH5zjPJNIIT7tEEtCwiXeNJHDvMipnw26E+kNgVQJPFBFnuOPnO84kilaPAR68KuWPGzveSsUU+8GdLA=="
       },
+{
+    "name": "UNIVERSAL PREMIERE ESTE HD",
+    "icono": "https://clarovideocdn8.clarovideo.net/CVPERU/PELICULAS/UNIVERSALPREMIEREESTEHD/EXPORTACION_WEB/SS/UNIVERSALPREMIEREESTEHD_t-290x163.png",
+    "uri": "https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(UNIVERSAL_PREMIERE_HD)/index.m3u8"
+  },
+  {
+    "name": "UNIVERSAL CINEMA HD",
+    "icono": "https://clarovideocdn6.clarovideo.net/CVPERU/PELICULAS/UNIVERSALCINEMAHD/EXPORTACION_WEB/SS/UNIVERSALCINEMAHD_t-290x163.png",
+    "uri": "https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(UNIVERSAL_CINEMA_HD)/index.m3u8"
+  },
+  {
+    "name": "UNIVERSAL REALITY HD",
+    "icono": "https://clarovideocdn8.clarovideo.net/CVPERU/PELICULAS/UNIVERSALREALITYHD/EXPORTACION_WEB/SS/UNIVERSALREALITYHD_t-290x163.png",
+    "uri": "https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(UNIVERSAL_REALITY_HD)/index.m3u8"
+  },
+  {
+    "name": "UNIVERSAL COMEDY HD",
+    "icono": "https://clarovideocdn6.clarovideo.net/CVPERU/PELICULAS/UNIVERSALCOMEDYHD/EXPORTACION_WEB/SS/UNIVERSALCOMEDYHD_t-290x163.png",
+    "uri": "https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(UNIVERSAL_COMEDY_HD)/index.m3u8"
+  },
+  {
+    "name": "UNIVERSAL CRIME ESTE HD",
+    "icono": "https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/UNIVERSALCRIMEESTEHD/EXPORTACION_WEB/SS/UNIVERSALCRIMEESTEHD_t-290x163.png",
+    "uri": "https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(UNIVERSAL_CRIME_HD)/index.m3u8"
+  },
+  {
+    "name": "GOLDEN",
+    "icono": "https://clarovideocdn4.clarovideo.net/CVPERU/PELICULAS/GOLDEN/EXPORTACION_WEB/SS/GOLDEN_t-290x163.png",
+    "uri": "https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(GOLDEN_HD)/index.m3u8"
+  },
+  {
+    "name": "GOLDEN PREMIER 2",
+    "icono": "https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/GOLDENPREMIER2/EXPORTACION_WEB/SS/GOLDENPREMIER2_t-290x163.png",
+    "uri": "https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(GOLDEN_PREMIER_2_HD)/index.m3u8"
+  },
+  {
+    "name": "GOLDEN PREMIER HD",
+    "icono": "https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/GOLDENPREMIERHD/EXPORTACION_WEB/SS/GOLDENPREMIERHD_t-290x163.png",
+    "uri": "https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(GOLDEN_PREMIER_HD)/index.m3u8"
+  },
       {
         "name": "TNT HD",
         "uri": "HYj1mQswC+Qz/gW3GNf2Z/KIvc13jEShsv8KSiABbVrX7o1HzQJKB2MWoKteCpjDGtlbhr7Ix9XK1bW4MsYZOJ9kJwGHcrCqDVu7cF8EAJg=",
