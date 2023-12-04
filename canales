@@ -178,6 +178,41 @@
     "icono": "https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/GOLDENPREMIERHD/EXPORTACION_WEB/SS/GOLDENPREMIERHD_t-290x163.png",
     "uri": "https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(GOLDEN_PREMIER_HD)/index.m3u8"
   },
+{
+    "name": "RAKUTEN ACCION",
+    "icono": "https://yt3.googleusercontent.com/ADq9aOWry6U7Jy3wKni0wCVs8X8PHoOPZeLl9-Z1iPivdpF6ZrCTpZTY--VZ6zxsyvcSOA22=s900-c-k-c0x00ffffff-no-rj",
+    "uri": "https://rakuten-actionmovies-2-es.samsung.wurl.tv/3000.m3u8"
+  },
+{
+    "name": "RAKUTEN FAMILY",
+    "icono": "https://yt3.googleusercontent.com/ADq9aOWry6U7Jy3wKni0wCVs8X8PHoOPZeLl9-Z1iPivdpF6ZrCTpZTY--VZ6zxsyvcSOA22=s900-c-k-c0x00ffffff-no-rj",
+    "uri": "https://rakuten-family-2-es.samsung.wurl.tv/playlist.m3u8"
+  },
+{
+    "name": "RAKUTEN TOPFREE",
+    "icono": "https://yt3.googleusercontent.com/ADq9aOWry6U7Jy3wKni0wCVs8X8PHoOPZeLl9-Z1iPivdpF6ZrCTpZTY--VZ6zxsyvcSOA22=s900-c-k-c0x00ffffff-no-rj",
+    "uri": "https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8"
+  },
+{
+    "name": "RAKUTEN MYTIMES",
+    "icono": "https://yt3.googleusercontent.com/ADq9aOWry6U7Jy3wKni0wCVs8X8PHoOPZeLl9-Z1iPivdpF6ZrCTpZTY--VZ6zxsyvcSOA22=s900-c-k-c0x00ffffff-no-rj",
+    "uri": "https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8"
+  },
+{
+    "name": "RAKUTEN TVSHOWS",
+    "icono": "https://yt3.googleusercontent.com/ADq9aOWry6U7Jy3wKni0wCVs8X8PHoOPZeLl9-Z1iPivdpF6ZrCTpZTY--VZ6zxsyvcSOA22=s900-c-k-c0x00ffffff-no-rj",
+    "uri": "https://rakuten-tvshows-2-es.lg.wurl.tv/playlist.m3u8"
+  },
+{
+    "name": "RAKUTEN ROMANCE",
+    "icono": "https://yt3.googleusercontent.com/ADq9aOWry6U7Jy3wKni0wCVs8X8PHoOPZeLl9-Z1iPivdpF6ZrCTpZTY--VZ6zxsyvcSOA22=s900-c-k-c0x00ffffff-no-rj",
+    "uri": "https://2d8524e2966d4b348b210ec79bdaa943.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-es_RakutenRomance/playlist.m3u8"
+  },
+{
+    "name": "GOLDEN PLUS",
+    "icono": "https://static.wikia.nocookie.net/logopedia/images/f/f9/Golden_Plus_LA_2020.png/revision/latest/scale-to-width-down/300?cb=20201205211346",
+    "uri": "https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8"
+  },
       {
         "name": "TNT HD",
         "uri": "HYj1mQswC+Qz/gW3GNf2Z/KIvc13jEShsv8KSiABbVrX7o1HzQJKB2MWoKteCpjDGtlbhr7Ix9XK1bW4MsYZOJ9kJwGHcrCqDVu7cF8EAJg=",
@@ -739,7 +774,13 @@
   {
     "name": "UNIVERSAL CANALES",
     "samples": [
-
+{
+        "name": "TYC SPORT",
+        "uri": "https://testphp07.alwaysdata.net/Telecentro/test.m3u8",
+        "drm_scheme": "clearkey",
+        "icono": "https://img2.freepng.es/20180723/huc/kisspng-logo-tyc-sports-brand-trademark-mosaic-5b55e9fa8e43a0.5446456715323571145827.jpg",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=5043ff30467548fd08e83041bd5ad4ed&key=245a84fdf333df75c5fb7651d327e25b"
+      },
       {
         "name": "UNIVERSAL COMEDY",
         "uri": "bPVdeGPTuhbcdkidkYMunCWRgSsi/wxqXAJcZ3FaGNXyOdeeUcdGciQ9ko0SKEsR8jfq6Rvo4ANsmPt0t8UgCQ==",
