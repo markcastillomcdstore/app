@@ -2325,17 +2325,7 @@
         "drm_scheme": "clearkey",
         "icono": "https://i.ibb.co/S3j0Kw5/televisionnacionaluruguay-500x500-300x300.jpg",
         "drm_license_uri": "1Dh0aiPKTARVnGPLLvpMuBvVe2hv5OoR7tEbdi1MCaNSJGBlHSyFMlrn7ySpa1rJ01rcNZJ8ArCpJAPLzZ0Zgyj+1x5vvfqCNRWmV9B+/Rk/IHpZJgF693GpcV12YuNZSXDaKFAYcTJ5Rut2N9Fca5ma2yCFvQQCqmqg7aNKcWoItoHjy0vkxQq0UjattZhiwOHx4Ubar56QxzWbmEIqzg=="
-      },
-      {
-        "name": "VTV OpcTVConect",
-        "uri": "bPVdeGPTuhbcdkidkYMunI1bfk6BiN77bwdq1PVhYFl9ltBwccf9BddaKBKt6nmA7x8PDNyei0xkoWOmd+AH+Q==",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Logo_VTV_nuevo.png/800px-Logo_VTV_nuevo.png"
-      },
-      {
-        "name": "VTV OpcTVConect 2",
-        "uri": "bPVdeGPTuhbcdkidkYMunF7DKrVNA3cl88Ytp2029xbuwiRr8sPs1elQ39FoOGgfuUKe8nWxtVDNnpYRutxV/g==",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Logo_VTV_nuevo.png/800px-Logo_VTV_nuevo.png"
-      },
+      }
       {
         "name": "VTV PLUS",
         "uri": "HYj1mQswC+Qz/gW3GNf2Z/KIvc13jEShsv8KSiABbVqU+9T0xg/X8j7T7raQ2SeFXsrj8ES+55XpdxQTlg3Ur0rvv8D56T1wjYBCurYVl2GF0D+OklM3jQbBiCh0J4Da",
@@ -2343,16 +2333,7 @@
         "icono": "https://static.tvar.io/imagenes/vtvplus.png?",
         "drm_license_uri": "1Dh0aiPKTARVnGPLLvpMuBvVe2hv5OoR7tEbdi1MCaNSJGBlHSyFMlrn7ySpa1rJ01rcNZJ8ArCpJAPLzZ0Zg+iCNFsKz0Y3X4qMFQGiTqhiRu9+kLzo+OAzwu33U9bYJW5tOsP4/JmDYVVpu9USso0zOlRqAteZyD9CI1+8phB/Y4K3Ty7DjDOJcxfy73t/XHSQJA95cibH3gMTVkCYXg=="
       },
-      {
-        "name": "VTV PLUS 2",
-        "uri": "bPVdeGPTuhbcdkidkYMunNAJPdXLqxVVqH3N1G8iH7uXT9jaAo0GS9trgH3+FuZ9Kd0LGKuInZ+kVMQZ+5mdbw==",
-        "icono": "https://static.tvar.io/imagenes/vtvplus.png?"
-      },
-      {
-        "name": "VTV PLUS 3",
-        "uri": "bPVdeGPTuhbcdkidkYMunCWRgSsi/wxqXAJcZ3FaGNV9YWnwXlZTKG+1+0YibeLPk5hnVKcwVpyuAea6wSNC2Q==",
-        "icono": "https://static.tvar.io/imagenes/vtvplus.png?"
-      },
+     
       {
         "name": "TV CIUDAD",
         "uri": "rbrzHQCBZeANTtr9rjcYQ81+UxXnmpz2ozKXQAzd2ya4Jrp0/y6kJ0IO0+SxYDRJV7w2Nt2UxuT4CnaUvyOBdhG6GDhd8KLWSyvPrZ3ZEDFdxT3Eef3QD4FqzKN8s4ik",
@@ -2389,11 +2370,6 @@
         "drm_license_uri": "RVuLNJ1jL26XhhI5RStL+RXFGQp89t9Lr1DVld/mLWmXZtcQo5bS9yD7Nr+oVFlkZMs9MtFQQ8lcdT+MNf54eb+7+FDmA/P2mN0ii2owhBLFOAFTcaEwEefXG37IVSm31XIyKjhvpIB1RNbHuYqT+A=="
       },
       {
-        "name": "VTV PLUS",
-        "uri": "bPVdeGPTuhbcdkidkYMunOk1jeYKSx4RYzXK9fkyBNpYlY3ooajIL5JaF3cqU9/nKFaqtzDNfioQaCflvpzc6Q==",
-        "icono": "https://static.tvar.io/imagenes/vtvplus.png?"
-      },
-      {
         "name": "LA TELE",
         "uri": "bPVdeGPTuhbcdkidkYMunOk1jeYKSx4RYzXK9fkyBNpYlY3ooajIL5JaF3cqU9/nMR2FPN9vr0cDx/cHgThpzA==",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Teledoce_2022.png/1200px-Teledoce_2022.png"
@@ -2417,49 +2393,66 @@
         "name": "A+V",
         "uri": "9FpGx6+juF78MFWzPzYhWZJguzS9buTqZwyfk1Mjs3b2wD1w+iKcA9R3hKYbTXZdrDPRp3+126IizimywNUHDiwr4VwBUnT3SoXELIqZzTtyFNKkDPeyW0CYHpYVk36L",
         "icono": "https://i.ibb.co/28yt2BV/AV.jpg"
-      },
-      {
-        "name": "VTV+ EVENTO",
-        "uri": "9FpGx6+juF78MFWzPzYhWZJguzS9buTqZwyfk1Mjs3b2wD1w+iKcA9R3hKYbTXZdrDPRp3+126IizimywNUHDhaAxHSS//kc5Xdj39xsVDJpEv/ljNmoFrceJ8U5gjhq",
-        "icono": "https://i.ibb.co/RB4qVWL/VTV-Plus-2021.webp"
-      },
-      {
-        "name": "VTV+ EVENTO OP2",
-        "uri": "9FpGx6+juF78MFWzPzYhWZJguzS9buTqZwyfk1Mjs3b2wD1w+iKcA9R3hKYbTXZd4ZmIn7eakxRT+FfXZBi5NXN5kjP29uwPz4hStVhBcsDcMNEQ5v/BIdiu9E3hHQwL",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Canal7TWnlhy.png/150px-Canal7TWnlhy.png"
-      },
-      {
-        "name": "DIRECT TV SPORTS",
-        "uri": "9FpGx6+juF78MFWzPzYhWZJguzS9buTqZwyfk1Mjs3b2wD1w+iKcA9R3hKYbTXZd4ZmIn7eakxRT+FfXZBi5NbRUe1mbXZwQ0fxQcF6Ql7vG+NYG8vH8KZAvjWeJHgtH",
-        "icono": "https://i.ibb.co/3rCx43n/512x512bb.jpg"
-      },
-      {
-        "name": "DIRECT TV SPORTS",
-        "uri": "9FpGx6+juF78MFWzPzYhWZJguzS9buTqZwyfk1Mjs3b2wD1w+iKcA9R3hKYbTXZd4ZmIn7eakxRT+FfXZBi5NZCKLrkjtY74ex5OZRiYx9Nr66Iy++vuQy/0L1+gpahW",
-        "icono": "https://i.ibb.co/28yt2BV/AV.jpg"
-      },
-      {
-        "name": "TELEPLAY EVENTO - AUF TV",
-        "uri": "9FpGx6+juF78MFWzPzYhWZJguzS9buTqZwyfk1Mjs3b2wD1w+iKcA9R3hKYbTXZdrDPRp3+126IizimywNUHDgQz9Qz5fwB2bL0ShKqYEuit9WmrEduJmo6a9g53ddoD",
-        "icono": "https://i.ibb.co/nbR9T20/unnamed-2.webp"
-      },
-      {
-        "name": "TELE PLAY EVENTOS 01",
-        "uri": "9FpGx6+juF78MFWzPzYhWZJguzS9buTqZwyfk1Mjs3b2wD1w+iKcA9R3hKYbTXZdrDPRp3+126IizimywNUHDhsvPtfWSSW66QRKDfml/cjodhGoYuBhIdNHDCmYJrMN",
-        "icono": "https://i.ibb.co/C0zbnTb/Teleplay-1-1.png"
-      },
-      {
-        "name": "TELE PLAY EVENTOS 02",
-        "uri": "9FpGx6+juF78MFWzPzYhWZJguzS9buTqZwyfk1Mjs3b2wD1w+iKcA9R3hKYbTXZdrDPRp3+126IizimywNUHDpW72ZNFovMGPaw4rMLqDPK5HXFU5ha8i1Lez6NrOzBO",
-        "icono": "https://i.ibb.co/C0zbnTb/Teleplay-1-1.png"
-      },
-      {
-        "name": "TELEPLAY EVENTO 03\u3010DEXARY",
-        "uri": "9FpGx6+juF78MFWzPzYhWZJguzS9buTqZwyfk1Mjs3b2wD1w+iKcA9R3hKYbTXZdrDPRp3+126IizimywNUHDlTJ3aBzQ5OsS0rgCl6I1A0qZ0iLSQTH/xZBAuGEVY4b",
-        "icono": "https://i.ibb.co/C0zbnTb/Teleplay-1-1.png"
       }
     ]
   },
+{
+    "name": "🇺🇾URUGUAY DEPORTES",
+    "samples": [
+        {
+            "name": "VTV PLUS",
+            "uri": "https://cdn.cvattv.com.ar/live/c3eds/VTV_Plus_HD/SA_Live_dash_enc/VTV_Plus_HD.mpd",
+            "drm_scheme": "clearkey",
+            "drm_license_uri": "https://dl.dropbox.com/scl/fi/yvc5zu272t2cuywlum8o7/KEY.VTV.plus.json?rlkey=wujilhzd95e1xybe0xgamriw7&dl=0",
+            "icono": "https://i.ibb.co/n6nK0qp/Logo-Campeonato-Uruguayo-Primera-Divisi-n-cropped.png"
+        },
+        {
+            "name": "VTV PLUS 1",
+            "uri": "http://loadbl2.online:80/play/wyKycMiFwW9rrljwiZ4rqIwq9g1nOZgEAkg_66NyqXCCAL9ItGDwR7x3TVdRKGMv",
+            "icono": "https://i.ibb.co/n6nK0qp/Logo-Campeonato-Uruguayo-Primera-Divisi-n-cropped.png"
+        },
+        {
+            "name": "VTV PLUS 2 ",
+            "uri": "http://loadbl2.online:80/play/wyKycMiFwW9rrljwiZ4rqIwq9g1nOZgEAkg_66NyqXCCAL9ItGDwR7x3TVdRKGMv",
+            "icono": "https://i.ibb.co/n6nK0qp/Logo-Campeonato-Uruguayo-Primera-Divisi-n-cropped.png"
+        },
+        {
+            "name": "VTV PLUS 3 ",
+            "uri": "http://loadbl2.online:80/play/wyKycMiFwW9rrljwiZ4rqIwq9g1nOZgEAkg_66NyqXCCAL9ItGDwR7x3TVdRKGMv",
+            "icono": "https://i.ibb.co/n6nK0qp/Logo-Campeonato-Uruguayo-Primera-Divisi-n-cropped.png"
+        },
+        {
+            "name": "VTV PLUS 4 ",
+            "uri": "http://multiextrem.xyz:80/play/q2BASytLPAB5mwoHTx5J9kKcaEsbrYZL07mj28x6WH534AT-6c3dVx35mdLYiADv",
+            "icono": "https://i.ibb.co/n6nK0qp/Logo-Campeonato-Uruguayo-Primera-Divisi-n-cropped.png"
+        },
+        {
+            "name": "VTV PLUS 5",
+            "uri": "http://multiextrem.xyz:80/play/q2BASytLPAB5mwoHTx5J9kKcaEsbrYZL07mj28x6WH534AT-6c3dVx35mdLYiADv",
+            "icono": "https://i.ibb.co/n6nK0qp/Logo-Campeonato-Uruguayo-Primera-Divisi-n-cropped.png"
+        },
+        {
+            "name": "DIRECT TV SPORTS",
+            "uri": "http://multiextrem.xyz:80/play/q2BASytLPAB5mwoHTx5J9kKcaEsbrYZL07mj28x6WH4xoPSoSI0Pz7znto66nfCu",
+            "icono": "https://i.ibb.co/hMq03RK/DTVSPORTS.png"
+        },
+        {
+            "name": "DIRECT TV SPORTS",
+            "uri": "http://multiextrem.xyz:80/play/q2BASytLPAB5mwoHTx5J9kKcaEsbrYZL07mj28x6WH6BO4233J6zGQiL67cjDdEr",
+            "icono": "https://i.ibb.co/hMq03RK/DTVSPORTS.png"
+        },
+        {
+            "name": "DIRECT TV SPORTS",
+            "uri": "http://multiextrem.xyz:80/play/q2BASytLPAB5mwoHTx5J9kKcaEsbrYZL07mj28x6WH4xoPSoSI0Pz7znto66nfCu",
+            "icono": "https://i.ibb.co/hMq03RK/DTVSPORTS.png"
+        },
+        {
+            "name": "1000 X Hora TV",
+            "uri": "http://multiextrem.xyz:80/play/q2BASytLPAB5mwoHTx5J9hSTaZOAOK3YEQl9Jp5z4-tma0z7KQJL0yZpF8OT2UgN",
+            "icono": "https://i.ibb.co/Ss15x9d/1000xhora.webp"
+        }
+    ]
+},
   {
     "name": "CHILE",
     "samples": [
