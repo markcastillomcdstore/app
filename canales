@@ -773,10 +773,10 @@
         "name": "UNIVERSAL CANALES",
         "samples": [
             {
-                "name": "UNIVERSAL CRIME",
+                "name": "UNIVERSAL PREMIERE",
                 "uri": "https://unipluslivedash.akamaized.net/dash/live/2029899/universalpremiert0/manifest.mpd",
                 "drm_scheme": "clearkey",
-                "icono": "https://tvlatinolibre.com/wp-content/uploads/2023/07/Diseno-sin-titulo-73.png",
+                "icono": "https://ayuda.tigo.com.bo/hc/article_attachments/17871817726099",
                 "drm_license_uri": "https://eventos.mariabareiro.repl.co/uni.json"
             },
             {
@@ -788,20 +788,24 @@
             },
             {
                 "name": "UNIVERSAL REALITY",
-                "uri": "https://unipluslivedash.akamaized.net/dash/live/2029959/universalcomedyt0/manifest.mpd",
+                "uri": "https://unipluslivedash.akamaized.net/dash/live/2029943/universalrealityt0/manifest.mpd",
                 "drm_scheme": "clearkey",
                 "icono": "https://i.ibb.co/GVxjP47/universal-comedy-dark-logo.png",
                 "drm_license_uri": "https://eventos.mariabareiro.repl.co/reality.json"
             },
-            {
-                "name": "UNIVERAL CINEMA",
-                "uri": "bPVdeGPTuhbcdkidkYMunOk1jeYKSx4RYzXK9fkyBNpYlY3ooajIL5JaF3cqU9/nfqBLZJN6gdfqmH+xQKOo7g==",
-                "icono": "https://i.ibb.co/D4p8NpJ/Universal-Cinema-2021.png"
+{
+                "name": "UNIVERSAL CRIME",
+                "uri": "https://unipluslivedash.akamaized.net/dash/live/2029945/universalcrimet0/manifest.mpd",
+                "drm_scheme": "clearkey",
+                "icono": "https://tvlatinolibre.com/wp-content/uploads/2023/07/Diseno-sin-titulo-73.png",
+                "drm_license_uri": "https://eventos.mariabareiro.repl.co/crime.json"
             },
-            {
-                "name": "UNIVERAL PREMIERE",
-                "uri": "bPVdeGPTuhbcdkidkYMunOk1jeYKSx4RYzXK9fkyBNpYlY3ooajIL5JaF3cqU9/nX6a6y90AB+tvUyBvJTSYzw==",
-                "icono": "https://ayuda.tigo.com.bo/hc/article_attachments/17871817726099"
+{
+                "name": "UNIVERSAL CINEMA",
+                "uri": "https://unipluslivedash.akamaized.net/dash/live/2029942/universalcinemat0/manifest.mpd",
+                "drm_scheme": "clearkey",
+                "icono": "https://tvlatinolibre.com/wp-content/uploads/2023/07/Diseno-sin-titulo-73.png",
+                "drm_license_uri": "https://eventos.mariabareiro.repl.co/cinema.json"
             }
         ]
     },
