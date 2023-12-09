@@ -825,37 +825,7 @@
                 "name": "ENLACE",
                 "uri": "http://multiextrem.xyz:80/play/q2BASytLPAB5mwoHTx5J9hSTaZOAOK3YEQl9Jp5z4-svfYMlTKi8F8wDaowkXDoK",
                 "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Canal7TWnlhy.png/150px-Canal7TWnlhy.png"
-            },
-            {
-                "name": "DIRECT TV NEWS ",
-                "uri": "http://multiextrem.xyz:80/play/q2BASytLPAB5mwoHTx5J9hSTaZOAOK3YEQl9Jp5z4-sGI4UFaSr1o208v-Rvc6JC",
-                "icono": "https://i.ibb.co/3rCx43n/512x512bb.jpg"
-            },
-            {
-                "name": "DIRECTV SPORTS HD",
-                "uri": "http://multiextrem.xyz:80/play/q2BASytLPAB5mwoHTx5J9hSTaZOAOK3YEQl9Jp5z4-vBCF5Gl-rL55AyeSMs18fq",
-                "icono": "https://i.ibb.co/hMq03RK/DTVSPORTS.png"
-            },
-            {
-                "name": "DIRECTV SPORTS + HD",
-                "uri": "http://multiextrem.xyz:80/play/q2BASytLPAB5mwoHTx5J9hSTaZOAOK3YEQl9Jp5z4-twPeiKKJRwDwGjW7PQW80Y",
-                "icono": "https://i.ibb.co/hMq03RK/DTVSPORTS.png"
-            },
-            {
-                "name": "DIRECTV SPORTS 2 HD",
-                "uri": "http://multiextrem.xyz:80/play/q2BASytLPAB5mwoHTx5J9hSTaZOAOK3YEQl9Jp5z4-v3YO7wjzKVBSodfqydTAD9",
-                "icono": "https://i.ibb.co/hMq03RK/DTVSPORTS.png"
-            },
-            {
-                "name": "DIRECT TV SPORTS PLUS",
-                "uri": "http://multiextrem.xyz:80/play/q2BASytLPAB5mwoHTx5J9hSTaZOAOK3YEQl9Jp5z4-tEdq7FhyQBThQ9DwZbzYKj",
-                "icono": "https://i.ibb.co/hMq03RK/DTVSPORTS.png"
-            },
-            {
-                "name": "DIRECT TV SPORTS",
-                "uri": "http://multiextrem.xyz:80/play/q2BASytLPAB5mwoHTx5J9kKcaEsbrYZL07mj28x6WH4xoPSoSI0Pz7znto66nfCu",
-                "icono": "https://i.ibb.co/28yt2BV/AV.jpg"
-            },
+            }
             {
                 "name": "CANAL 26",
                 "uri": "6MdceifF8swN1HizavWqeMsnUtlBdC/qoYVWeE9Nzui6jyLyscR6PyBU2MhoMFxklCdCuqhaNwv/dxdXP+f0UJuyEO28wdYzrQ4v5d9IHNg2qMYR8MZUTxtsvSkWcRLe",
@@ -968,30 +938,120 @@
             }
         ]
     },
-    {
-        "name": "PACK FUTBOL ARGENTINO",
+    
+
+{
+        "name": "🇦🇷 DEPORTES ARGENTINA",
         "samples": [
-            {
-                "name": "TNT SPORT ARGENTINA HD",
-                "uri": "6MdceifF8swN1HizavWqeMsnUtlBdC/qoYVWeE9NzujqNsKdv7OkDmDR5O/ZD8/U+JO1y+wNYNrjjrI/ycsR4oN+B68XU3SmOPdc30Fm3IH7t1U5TswSdd8Y+n1pXo6j",
-                "drm_scheme": "clearkey",
-                "icono": "https://i.postimg.cc/kMkS5BVf/TNT-SPORTS-ARGENTINA.png",
-                "drm_license_uri": "1Dh0aiPKTARVnGPLLvpMuBvVe2hv5OoR7tEbdi1MCaNSJGBlHSyFMlrn7ySpa1rJ01rcNZJ8ArCpJAPLzZ0Zg7+I+atcrcNNjBnryy6rZiBJyt4A9QGEujRhbWL46UCs9NJOTcc2uS2s6j4AlNdmjgbbIqPrDVIh75VI9IakX8jDF3mVTTMnWVHw5XxGM5vz5Fkc6DRlMS52qJ5B0FKZng=="
-            },
-            {
-                "name": "TNT SPORT ARGENTINA HD 2",
-                "uri": "u2ihiON+iyHYII7o2bAWFfCXYdCR5UJD1JxXznTH51rWYpzahKdwo4orgtfcPTNrVMuyOhykWs+qMqRKE+87eA==",
-                "icono": "https://i.postimg.cc/kMkS5BVf/TNT-SPORTS-ARGENTINA.png"
-            },
-            {
+
+ {
+        "name": "DEPORTV",
+        "uri": "https://edge-live16-sl.cvattv.com.ar/live/c3eds/DeporTVHD/SA_Live_dash_enc_2A/DeporTVHD.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=f362097815892a4b83950f1d106ff0b2&key=4349e42e81c31a8389f4a42fcd298928",
+		"icono": "https://i.postimg.cc/9XdsQq0B/DEPOR-TV.png"
+      },
+
+{
+        "name": "TYC SPORT",
+        "uri": "https://chromecast.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc/TyCSport.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=2b21c8fa9a329cce311a4c4a4aa996a1&key=cc23ea1fb32629f9e1f48c8deeae3e5b",
+		"icono": "https://i.ibb.co/ygFV6hM/2023-12-08-18-35-45.png"
+      },
+
+{
                 "name": "ESPN PREMIUM",
                 "uri": "HYj1mQswC+Qz/gW3GNf2Z/KIvc13jEShsv8KSiABbVoenqQoyyiaCwmZqjpKaDB3ljKVx7zyh5Tt+ciTBtFdia/Z+5n4e6cFgpRKL+qsTu5ZG+qpA5q7NVuJmn6sVOTa1wld1G0zwZ39+WzlSerJ9A==",
                 "drm_scheme": "clearkey",
                 "icono": "https://i.postimg.cc/02BdYRZz/ver-espn-premium-en-vivo.jpg",
                 "drm_license_uri": "1Dh0aiPKTARVnGPLLvpMuBvVe2hv5OoR7tEbdi1MCaNSJGBlHSyFMlrn7ySpa1rJ01rcNZJ8ArCpJAPLzZ0ZgwWFAdnrobmg9H8Jf2U9Ju2milqk4sjBRfLrsqgH2bw3o2uHNyDZU0ZOObwThLqzdtIzQhoW+njZCD9yc0DplBijU21kOUelkK+GyLeboRIFFzlMB9ImdwWRKsGHpYv/+A=="
-            }
-        ]
-    },
+            },
+
+{
+        "name": "TNT SPORT HD",
+        "uri": "https://chromecast.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_2A/TNT_Sports_HD.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=bc80fa3da696e503f940fde5f681a1c5&key=ea46e4e9f1132e8dd71fb77f7d55058a",
+		"icono": "https://i.ibb.co/bHzCG5w/unnamed.png"
+      },
+
+    {
+        "name": "ESPN",
+        "uri": "https://edge-live16-sl.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc_2A/ESPN2HD.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://exoplaydoo.000webhostapp.com/keys/espn1.json",
+		"icono": "https://i.postimg.cc/fT4HQq5q/ESPN.png"
+      },
+      {
+        "name": "ESPN 2",
+        "uri": "https://edge-live15-hr.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_Live_dash_enc/ESPN2_Arg.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://mute.mariabareiro.repl.co/HELLOWORL/espn2.json",
+		"icono": "https://i.postimg.cc/SQVGKzM7/ver-espn-2-en-vivo.jpg"
+      },
+      {
+        "name": "ESPN 3",
+        "uri": "https://edge-live13-sl.cvattv.com.ar/live/c3eds/ESPN3/SA_Live_dash_enc_2A/ESPN3.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://mute.mariabareiro.repl.co/HELLOWORL/espn3.json",
+		"icono": "https://i.postimg.cc/vTP72psS/ver-espn-3-en-vivo.jpg"
+      },
+      {
+        "name": "ESPN XTRA",
+        "uri": "https://edge-live17-hr.cvattv.com.ar/live/c3eds/ESPNHD/SA_Live_dash_enc/ESPNHD.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://mute.mariabareiro.repl.co/HELLOWORL/espnx.json",
+		"icono": "https://i.postimg.cc/cHScvRhT/ver-espn-extra-en-vivo.jpg"
+      },
+      {
+        "name": "FOX SPORTS 1 AR",
+        "uri": "https://edge-live11-hr.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc/FoxSports.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=cbc2a0c7a38df0aa3333cd71841d3b0d&key=aac61b730e2ac1df23f1e872e7541c1b",
+		"icono": "https://i.ibb.co/DLbfhZS/photo1694966226.jpg"
+      },
+      {
+        "name": "FOX SPORTS 2 AR",
+        "uri": "https://edge-live11-hr.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_Live_dash_enc/FoxSports2HD.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://mute.mariabareiro.repl.co/HELLOWORL/fs2.json",
+		"icono": "https://i.ibb.co/F8Db1qG/photo1694966139.jpg"
+      },
+      {
+        "name": "FOX SPORTS 3 AR",
+        "uri": "https://edge-live11-hr.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_Live_dash_enc/FoxSports3HD.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://mute.mariabareiro.repl.co/HELLOWORL/fs3.json",
+		"icono": "https://i.ibb.co/GtyfsM4/photo1694966150.jpg"
+      },
+ {
+        "name": "TYC SPORT (PLAY 1)",
+        "uri": "https://d320m3arb2wo8b.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index.m3u8",
+		"icono": "https://i.ibb.co/0j7LBWR/Aw-UFQ-u-K-400x400.jpg"
+      },
+      {
+        "name": "TYC SPORT (PLAY 2)",
+        "uri": "https://dj8bzwveg7go9.cloudfront.net/out/v1/19321d887c274b58a4f62fe0f6e2151b/index_9.m3u8",
+		"icono": "https://i.ibb.co/0j7LBWR/Aw-UFQ-u-K-400x400.jpg"
+      },
+      {
+        "name": "TYC SPORT (PLAY 3)",
+        "uri": "https://d1xm2jznwi5xzj.cloudfront.net/out/v1/1bcd1ee954894463b1793597891a25b6/index_10.m3u8",
+		"icono": "hhttps://i.ibb.co/0j7LBWR/Aw-UFQ-u-K-400x400.jpg"
+      },
+      {
+        "name": "TYC SPORT (PLAY 4)",
+        "uri": "https://dj8bzwveg7go9.cloudfront.net/out/v1/366fc52554ae42c58465ea4b278eac0c/index_15.m3u8",
+		"icono": "https://i.ibb.co/0j7LBWR/Aw-UFQ-u-K-400x400.jpg"
+      },
+      {
+        "name": "TYC SPORT (PLAY 5)",
+        "uri": "https://d107yb993altze.cloudfront.net/out/v1/772e0b0193134726ad84693b7baca6c6/index_9.m3u8",
+		"icono": "https://i.ibb.co/0j7LBWR/Aw-UFQ-u-K-400x400.jpg"
+      }
+]
+},
     {
         "name": "INTERIOR DE ARGENTINA",
         "samples": [
@@ -1540,89 +1600,56 @@
             }
         ]
     },
-    {
-        "name": "DIRECTV (USAR VPN COLOMBIA)",
-        "samples": [
-            {
-                "name": "DIRECTV SPORT FIGHT",
-                "uri": "7gMaHlf2uSzqQ8j1T6G/AdBN8lQIrcZ/tUWTn5RjsyGhsZCzvZtSZROCPtAfLC56LTbNEzlLhSeL1XEXD3F05A==",
-                "drm_scheme": "clearkey",
-                "icono": "https://i.ibb.co/PQHbG7z/Dtvfith.png",
-                "drm_license_uri": "1Dh0aiPKTARVnGPLLvpMuBvVe2hv5OoR7tEbdi1MCaNSJGBlHSyFMlrn7ySpa1rJ01rcNZJ8ArCpJAPLzZ0Zg+Vd/pO68EA45pVW2LXsfb77IfKCCyY+owejnfuCFD3SoQqg5GzhuxB9PsV8jBdyjj3Bv8wys8osfi22dojZMIxKMSYr/Zln8Xtt1pCb1whRnkHiPX+K2hZ2Zw/VZsT8Wg=="
-            },
-            {
-                "name": "DIRECTV +",
-                "uri": "HhxVCyMJorpOqEvNi9KOEcYqgKysPK/V30EZNmqXklCjVj0+one8ZSNKb/2YEugK3k+PFMYU/0evgKtBTuoKqA==",
-                "icono": "https://i.postimg.cc/jS23T437/directvplus.jpg"
-            },
-            {
-                "name": "DIRECTV",
-                "uri": "cOAxK3Uiso0FvXf17ktJY2c3/ej4KTPbYCwo4rqLpHTDUyfNSs8oqH+I1fjijO8w84CJ2CfqeNt5r5JV9a0zvFoqWiuPLZbemwkvx41eFPA=",
-                "drm_scheme": "clearkey",
-                "icono": "https://i.postimg.cc/FRyDpWz2/ver-directv-sports-en-vivo.png",
-                "drm_license_uri": "1Dh0aiPKTARVnGPLLvpMuBvVe2hv5OoR7tEbdi1MCaNSJGBlHSyFMlrn7ySpa1rJ01rcNZJ8ArCpJAPLzZ0Zg3oHbw6NKl+6Wsj8Y0VNTWnYiYDsXIr4LjXw8KKnTZZG9BQDfUo9FyTWkdZck9MtdQO4bu+q00ltxyTBPrlOLj3PX4AqQnam4TjB/Pe3mzZpnc/7IDnf0TPBge5vOv0R3Q=="
-            },
-            {
-                "name": "DIRECTV 1 INGLES",
-                "uri": "HhxVCyMJorpOqEvNi9KOEcYqgKysPK/V30EZNmqXklCjVj0+one8ZSNKb/2YEugKss65aMRScbToHTeChSNACg==",
-                "icono": "https://i.postimg.cc/FRyDpWz2/ver-directv-sports-en-vivo.png"
-            },
-            {
-                "name": "DIRECTV 2",
-                "uri": "HhxVCyMJorpOqEvNi9KOEcYqgKysPK/V30EZNmqXklCjVj0+one8ZSNKb/2YEugKMz/Zq1WklFTzqdbIror52A==",
-                "icono": "https://i.postimg.cc/FRyDpWz2/ver-directv-sports-en-vivo.png"
-            },
-            {
-                "name": "DIRECTV 2 OPC 2",
-                "uri": "jGiNalppbuR3gutZUZJ+qssexN6qlKOCi60JoM2N3aC/ENNKR4AnnwYDBjIWkX3ZD3WN8ZODf4NtgX/RyFNdqFoqWiuPLZbemwkvx41eFPA=",
-                "icono": "https://i.postimg.cc/FRyDpWz2/ver-directv-sports-en-vivo.png",
-                "drm_scheme": "clearkey",
-                "drm_license_uri": "1Dh0aiPKTARVnGPLLvpMuBvVe2hv5OoR7tEbdi1MCaNSJGBlHSyFMlrn7ySpa1rJ01rcNZJ8ArCpJAPLzZ0Zg5mCg+UCVzbvQp24pDtsE3mth+HHNF3YoOZ5fZkoV1QremzKWLsasaMaipYnWIzuevCvFNbkrGeN7Pmvr5Mv9OunQpLLEILNlI0oxdBcDmRGDswGW0yswNKRyxyd7AmhMg=="
-            },
-            {
-                "name": "DIRECTV SPORT EVENTOS",
-                "uri": "7gMaHlf2uSzqQ8j1T6G/AdBN8lQIrcZ/tUWTn5RjsyHfx32kCCddrE4NwmAI8LH4LTbNEzlLhSeL1XEXD3F05A==",
-                "drm_scheme": "clearkey",
-                "icono": "https://i.postimg.cc/FRyDpWz2/ver-directv-sports-en-vivo.png",
-                "drm_license_uri": "1Dh0aiPKTARVnGPLLvpMuBvVe2hv5OoR7tEbdi1MCaNSJGBlHSyFMlrn7ySpa1rJ01rcNZJ8ArCpJAPLzZ0Zg8WBVt6bUMZNfhEy+n2S2Nuz2SQ/H81uNlYyf2B5cXWAjsHIU5m04RmyGhbk+sDX44mQmOC8anYLDnRLTN55VY0dPgS5Fke5NSebvWTANpj38aFeYuH9VytN6f/gTFLJUg=="
-            },
-            {
-                "name": "DIRECTV SPORTS MOTOR",
-                "uri": "7gMaHlf2uSzqQ8j1T6G/AdBN8lQIrcZ/tUWTn5RjsyE7BcsDBxY2WSe6QChZejEYLTbNEzlLhSeL1XEXD3F05A==",
-                "drm_scheme": "clearkey",
-                "icono": "https://i.postimg.cc/B64ZjfTY/dsportsmotor.jpg",
-                "drm_license_uri": "h3Gv13KFIHelZjiWVlljEjxMI8ZfyAQUjc73Oj/nrLPCJL8lqNeKTkxcRetiGAYb+gCTHuU8CGonhqqo073/bLPiN4qrzwqaLhlHZJa483VO4QhHB0x94BXio59eSBc+8eSWM6mn6uS1pzXLSnloadLBtAsQriS1xcehsM+RHwyhxN8dLWR7x0xBFmi2/8e1WipaK48tlt6bCS/HjV4U8A=="
-            },
-            {
-                "name": "DIRECTV SPORTS FIGHT",
-                "uri": "7gMaHlf2uSzqQ8j1T6G/AdBN8lQIrcZ/tUWTn5RjsyGhsZCzvZtSZROCPtAfLC56LTbNEzlLhSeL1XEXD3F05A==",
-                "drm_scheme": "clearkey",
-                "icono": "https://i.postimg.cc/857GJkFb/DSPORTS-FIGHT.png",
-                "drm_license_uri": "h3Gv13KFIHelZjiWVlljEjxMI8ZfyAQUjc73Oj/nrLPCJL8lqNeKTkxcRetiGAYb+gCTHuU8CGonhqqo073/bLwqqZk4UwJEI6t/Gru5qQfcB/T8U/vbL1wXaKbUAengJrRrCAeupxxJ/EYrrtz5JdN1lt8+L6PEsVJJgTVA8Vyp9lXqNEUXuMTMpbXwDu87WipaK48tlt6bCS/HjV4U8A=="
-            },
-            {
-                "name": "ONEDIRECTV 1",
-                "uri": "7gMaHlf2uSzqQ8j1T6G/AdBN8lQIrcZ/tUWTn5RjsyHBukiRw5LvUUs1p0OCioYBLTbNEzlLhSeL1XEXD3F05A==",
-                "drm_scheme": "clearkey",
-                "icono": "https://i.postimg.cc/bv9J6hSW/image.jpg",
-                "drm_license_uri": "1Dh0aiPKTARVnGPLLvpMuBvVe2hv5OoR7tEbdi1MCaNSJGBlHSyFMlrn7ySpa1rJ01rcNZJ8ArCpJAPLzZ0Zg0O3Yae4kQp56ZwIqwJEftiGkGzOEKzRiQPxXOHvKGg1+NaBFMxa+ejuscjtXw10g5qNjToZEkwiUAiEw5SOpM15NiqaJPuby/zkweZU9vJiaN+sRVdEKyD3AeeIILvdKQ=="
-            },
-            {
-                "name": "ONEDIRECTV 2",
-                "uri": "w9gK9wqb3abbqdZ2sJsZ6NBN8lQIrcZ/tUWTn5RjsyEWmYc1KJ+PV3VoxQDckOAPLTbNEzlLhSeL1XEXD3F05A==",
-                "drm_scheme": "clearkey",
-                "icono": "https://i.postimg.cc/bv9J6hSW/image.jpg",
-                "drm_license_uri": "1Dh0aiPKTARVnGPLLvpMuBvVe2hv5OoR7tEbdi1MCaNSJGBlHSyFMlrn7ySpa1rJ01rcNZJ8ArCpJAPLzZ0Zg8A4eqFBFMl2kwTrHalN5zjyf+58atLkloH0vY0XyXPeOyeNUaImAJjoFwiWq6K/fVjr22Xf3ZFu1DdNDCXKxEXfxh47qZIiqg2JdRX6L5Idsm9Ag1BVqTXeKxQF4htoZA=="
-            },
-            {
-                "name": "ONEDIRECTV 3",
-                "uri": "7gMaHlf2uSzqQ8j1T6G/AdBN8lQIrcZ/tUWTn5RjsyHfUVdlmh+GPR9zWYeRSrb+LTbNEzlLhSeL1XEXD3F05A==",
-                "drm_scheme": "clearkey",
-                "icono": "https://i.postimg.cc/bv9J6hSW/image.jpg",
-                "drm_license_uri": "1Dh0aiPKTARVnGPLLvpMuBvVe2hv5OoR7tEbdi1MCaNSJGBlHSyFMlrn7ySpa1rJ01rcNZJ8ArCpJAPLzZ0Zg1waqacqwcx1fnvyD2Fg30dFkLEb8BXIbg48ALgEtEpYr8bKCxgiLEg4sjPByV4gwKbuAC+DhRH/FadBmNjELq2P9ewykz4lSM3TlmDkXPuwJOGqjPjSbR6CJqibQKUFxA=="
-            }
-        ]
-    },
+{
+    "name": "DIRECT TV SPORTS",
+    "samples": [
+        {
+            "name": "DIREC TV Sports Fight ",
+            "uri": "http://multiextrem.xyz:80/play/q2BASytLPAB5mwoHTx5J9hSTaZOAOK3YEQl9Jp5z4-sGI4UFaSr1o208v-Rvc6JC",
+            "icono": "https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/d/s/dsports_fight.png"
+        },
+        {
+            "name": "DIRECT TV MOTOR ",
+            "uri": "http://multiextrem.xyz:80/play/q2BASytLPAB5mwoHTx5J9hSTaZOAOK3YEQl9Jp5z4-vVJLYnUQM1AYFQRy7EF3gs",
+            "icono": "https://i.ibb.co/ygkBqZ8/screenshot-2023-06-07-19-45-41.jpg"
+        },
+        {
+            "name": "DIRECT TV NEWS ",
+            "uri": "http://multiextrem.xyz:80/play/q2BASytLPAB5mwoHTx5J9hSTaZOAOK3YEQl9Jp5z4-sGI4UFaSr1o208v-Rvc6JC",
+            "icono": "https://i.ibb.co/3rCx43n/512x512bb.jpg"
+        },
+        {
+            "name": "DIRECTV SPORTS HD",
+            "uri": "http://multiextrem.xyz:80/play/q2BASytLPAB5mwoHTx5J9kKcaEsbrYZL07mj28x6WH7u3R6dPAm_5lPMMLL5vi0N",
+            "icono": "https://i.ibb.co/hMq03RK/DTVSPORTS.png"
+        },
+        {
+            "name": "DIRECTV SPORTS HD",
+            "uri": "http://multiextrem.xyz:80/play/q2BASytLPAB5mwoHTx5J9hSTaZOAOK3YEQl9Jp5z4-vBCF5Gl-rL55AyeSMs18fq",
+            "icono": "https://i.ibb.co/hMq03RK/DTVSPORTS.png"
+        },
+        {
+            "name": "DIRECTV SPORTS + HD",
+            "uri": "http://multiextrem.xyz:80/play/q2BASytLPAB5mwoHTx5J9hSTaZOAOK3YEQl9Jp5z4-twPeiKKJRwDwGjW7PQW80Y",
+            "icono": "https://i.ibb.co/hMq03RK/DTVSPORTS.png"
+        },
+        {
+            "name": "DIRECTV SPORTS 2 HD",
+            "uri": "http://multiextrem.xyz:80/play/q2BASytLPAB5mwoHTx5J9hSTaZOAOK3YEQl9Jp5z4-v3YO7wjzKVBSodfqydTAD9",
+            "icono": "https://i.ibb.co/hMq03RK/DTVSPORTS.png"
+        },
+        {
+            "name": "DIRECT TV SPORTS PLUS",
+            "uri": "http://multiextrem.xyz:80/play/q2BASytLPAB5mwoHTx5J9hSTaZOAOK3YEQl9Jp5z4-tEdq7FhyQBThQ9DwZbzYKj",
+            "icono": "https://i.ibb.co/hMq03RK/DTVSPORTS.png"
+        },
+        {
+            "name": "DIRECT TV SPORTS",
+            "uri": "http://multiextrem.xyz:80/play/q2BASytLPAB5mwoHTx5J9kKcaEsbrYZL07mj28x6WH4xoPSoSI0Pz7znto66nfCu",
+            "icono": "https://i.ibb.co/hMq03RK/DTVSPORTS.png"
+        }
+    ]
+},
     {
         "name": "DEPORTES",
         "samples": [
