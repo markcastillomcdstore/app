@@ -113,7 +113,7 @@
         ]
     },
     {
-        "name": "CINE Y SERIES",
+        "name": "🎬 CINE Y SERIES",
         "samples": [
             {
                 "name": "GOLDEN",
@@ -368,7 +368,7 @@
         ]
     },
     {
-        "name": "CANALES INFANTILES",
+        "name": "👩‍👦‍👦 INFANTILES",
         "samples": [
             {
                 "name": "DISCOVERY KIDS CHANNEL",
@@ -469,7 +469,7 @@
         ]
     },
     {
-        "name": "Canales de Musica",
+        "name": "🎵 MÚSICA",
         "samples": [
             {
                 "name": "MTV HITS",
@@ -591,7 +591,7 @@
         ]
     },
     {
-        "name": "PARAGUAY",
+        "name": "🇵🇾 PARAGUAY",
         "samples": [
             {
                 "name": "SURTV",
@@ -810,7 +810,7 @@
         ]
     },
     {
-        "name": "ARGENTINA",
+        "name": "🇦🇷 ARGENTINA",
         "samples": [
             {
                 "name": "TELEFE DEPORTES",
@@ -2017,7 +2017,7 @@
         ]
     },
     {
-        "name": "BOLIVIA",
+        "name": "🇧🇴 BOLIVIA",
         "samples": [
             {
                 "name": "MARKVISION TV HD",
@@ -2510,7 +2510,7 @@
         ]
     },
     {
-        "name": "COLOMBIA",
+        "name": "🇨🇴 COLOMBIA",
         "samples": [
             {
                 "name": "NTN24",
