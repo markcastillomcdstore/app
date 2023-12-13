@@ -594,6 +594,13 @@
                 "drm_scheme": "clearkey",
                 "icono": "https://i.ibb.co/9bJ3cxp/ar-film-arts-m.png",
                 "drm_license_uri": "1Dh0aiPKTARVnGPLLvpMuBvVe2hv5OoR7tEbdi1MCaNSJGBlHSyFMlrn7ySpa1rJ01rcNZJ8ArCpJAPLzZ0Zg7mZq34E/lDk4NsfyVkvRm5OyIXSyjGR6RC5RTl9QqiuTQjZAfw4/zcKdUJ91c1CPLMoAu/LUBoh46SKbIIqX1D+V1U+TNOei1kLdtZqDl9zRZsj79mQTuJkdicoX5Y2XQ=="
+            },
+{
+                "name": "GOURMET",
+                "uri": "https://cdn.cvattv.com.ar/live/c3eds/Gourmet/SA_Live_dash_enc/Gourmet.mpd",
+                "drm_scheme": "clearkey",
+                "icono": "https://archive.org/download/picsart-23-08-09-18-59-40-494/Picsart_23-08-10_18-48-21-682.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=93d853ac4c8e24cf0295f6f97ee53bd3&key=fa5817fab4fb054ccea1abb9f3d767ed"
             }
         ]
     },
