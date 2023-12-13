@@ -599,7 +599,7 @@
                 "name": "GOURMET",
                 "uri": "https://cdn.cvattv.com.ar/live/c3eds/Gourmet/SA_Live_dash_enc/Gourmet.mpd",
                 "drm_scheme": "clearkey",
-                "icono": "https://archive.org/download/picsart-23-08-09-18-59-40-494/Picsart_23-08-10_18-48-21-682.png",
+                "icono": "https://s3.us-east-1.amazonaws.com/forofms.na/gallery/category_7/large.gallery_11008_7_20686.png.8c852f813922851fc31bcd0b66c9c965.png",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=93d853ac4c8e24cf0295f6f97ee53bd3&key=fa5817fab4fb054ccea1abb9f3d767ed"
             }
         ]
@@ -950,7 +950,7 @@
             },
             {
                 "name": "GRAN HERMANO ARGENTINA",
-                "uri": "6f73hQxVzjMu6KpgkBMbZ4gfmQqAUFiiDnOwdidi8MtD/gfUfytCMb/2eP2ihT0km7ExuAbBkUViq015P0VoYFseWw3joZ3HOD1JII6dryEMHuRupMgJ1kVmYmZiAv6gCqnClbVVWSbXQ8NzyILUeyc1cJMT4B5rzjD/I5INJeG6sCvVDW+firjSXY5NTnLg12e7Ve1lWckIlXMjhXNC718EkWuKxvQQ62097Y7nwXz7wsKkDz6Hae0JFabu1zDJu96wMxv3H1Xr4KXM3XxY2YFuNtVFhXujbCMd2nakJQ2wM1r3ZcH6pBcWRKSihppNupro80ZXLnYz486x5zvXYlhxiAur/fzzwNdu2uw2dPo3gsqYJ31pXYrjh4AspmExfxfmGJHjvNVgMStECtkhETF4pOcinSzOOpJcxD12wOss3/mEH88k2COt9H+NZT3mQ6bkcLjHBXTVtpetUnriOoMl0uI3gCFgiu1bqHw/SVaE0bDMNkjHgsjzRIOg4Ll4fQ0uo3MqxwaAJnd6+TSV1t1YC2LCzv1Pp5U0W8OuKj5PIdwJ60gN1plcF6MBs29bdIs1ekjc93n0a0uMGHjiSg==",
+                "uri": "http://bgb.agropaqserver1.com/live",
                 "icono": "https://i.ibb.co/4MG88DD/Gran-hermano-2022.jpg"
             }
         ]
