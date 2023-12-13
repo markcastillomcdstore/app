@@ -6,6 +6,13 @@
                 "name": "EVENTOS",
                 "uri": "http://loadbl2.online/play/wyKycMiFwW9rrljwiZ4rqD04Indk_jixWfJU-fCm6pPK_gjqYXvk8WalBuYS0kfC",
                 "icono": "https://i.ibb.co/1sfzhDW/noticia-1600893912-partidos-de-hoy-europa-league-copa-libertadores-liga-1-movistar-serie.webp"
+            },
+{
+                "name": "Test",
+                "uri": "http://localhost/directv/dtv_vos.php?kid=4812da5449a13158a603eac611dfe5da",
+                "drm_scheme": "clearkey",
+                "icono": "https://i.postimg.cc/8c5nZ6yx/tntseries.png",
+                "drm_license_uri": "https://eventos.mariabareiro.repl.co/gh.json"
             }
         ]
     },
