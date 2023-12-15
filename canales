@@ -9,10 +9,10 @@
             },
 {
                 "name": "Test",
-                "uri": "http://localhost/directv/dtv_vos.php?kid=4812da5449a13158a603eac611dfe5da",
+                "uri": "https://vod-ssla.dtvott.com/D001618743/manifest_03.mpd?da=0",
                 "drm_scheme": "clearkey",
                 "icono": "https://i.postimg.cc/8c5nZ6yx/tntseries.png",
-                "drm_license_uri": "https://eventos.mariabareiro.repl.co/gh.json"
+                "drm_license_uri": "https://eventos.mariabareiro.repl.co/dtvt.json"
             }
         ]
     },
