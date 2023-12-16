@@ -950,32 +950,10 @@
             },
             {
                 "name": "GRAN HERMANO 24HS",
-                "uri": "RLOUPdPAHNEgNJxgHhuSsWJYRzHVkAqnAr9WccWjHqK1l7xD+nm7lQ1r2j4x9cljXJeQbf9q851cutTE4a9ILYXQP46SUzeNBsGIKHQngNo=",
+                "uri": "https://testphp07.alwaysdata.net/vimeofutplay/ti.m3u8",
                 "drm_scheme": "clearkey",
-                "icono": "https://i.imgur.com/LVoXucd.png",
-                "drm_license_uri": "1Dh0aiPKTARVnGPLLvpMuBvVe2hv5OoR7tEbdi1MCaNSJGBlHSyFMlrn7ySpa1rJ01rcNZJ8ArCpJAPLzZ0Zg6AkSXiik6YQOxPHSKvap5T+H5QEQ9YSfXpLJvmpTepJZc6FPTDYq5svXKJOfPN19ZELa1ol3ZAoJiC2pGIAxxtEQd0JKcSCyOHyP/qm62HV9v22iFdcdGftd90Pl7ihDA=="
-            },
-            {
-                "name": "GRAN HERMANO CAM 1",
-                "uri": "RLOUPdPAHNEgNJxgHhuSsWJYRzHVkAqnAr9WccWjHqK1l7xD+nm7lQ1r2j4x9cljv0THv3j8IXLwRzwO+1+ylX1yz9ysZaPGmZzL/id922g=",
-                "drm_scheme": "clearkey",
-                "icono": "https://i.imgur.com/LVoXucd.png",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=9551559085843488876b472cd5416000&key=a7dbd673c51a4c73522e7d1a240fa7bc"
-            },
-            {
-                "name": "GRAN HERMANO CAM 2",
-                "uri": "RLOUPdPAHNEgNJxgHhuSsWJYRzHVkAqnAr9WccWjHqK1l7xD+nm7lQ1r2j4x9cljv0THv3j8IXLwRzwO+1+ylQpYTYUwnIbibBealslFXeM=",
-                "drm_scheme": "clearkey",
-                "icono": "https://i.imgur.com/LVoXucd.png",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=206ba28f691f34f88d8886cc42702c4c&key=7830b692416a413e1f31fb81a3bdf752"
-            },
-            {
-                "name": "GRAN HERMANO CAM 3",
-                "uri": "RLOUPdPAHNEgNJxgHhuSsWJYRzHVkAqnAr9WccWjHqK1l7xD+nm7lQ1r2j4x9cljv0THv3j8IXLwRzwO+1+ylQ3xPfvKCOxa/cZrgcsxu0s=",
-                "drm_scheme": "clearkey",
-                "icono": "https://i.imgur.com/LVoXucd.png",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=cd9941e77fc63100986acdcb6bcba661&key=dc9b59d9a8397b756bdd2607c7614476"
-            }
+                "icono": "https://i.imgur.com/LVoXucd.png"
+              }
         ]
     },
     {
