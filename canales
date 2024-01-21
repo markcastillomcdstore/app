@@ -1,52 +1,11 @@
 [
-    {
-        "name": "PARTIDOS DE LA FECHA DE STAR+ HORA ARG/BRA",
-        "samples": [
-            {
-                "name": "EVENTOS",
-                "uri": "http://loadbl2.online/play/wyKycMiFwW9rrljwiZ4rqD04Indk_jixWfJU-fCm6pPK_gjqYXvk8WalBuYS0kfC",
-                "icono": "https://i.ibb.co/1sfzhDW/noticia-1600893912-partidos-de-hoy-europa-league-copa-libertadores-liga-1-movistar-serie.webp"
-            },
-{
-                "name": "Test",
-                "uri": "https://vod-ssla.dtvott.com/D001618743/manifest_03.mpd?da=0",
-                "drm_scheme": "clearkey",
-                "icono": "https://i.postimg.cc/8c5nZ6yx/tntseries.png",
-                "drm_license_uri": "https://eventos.mariabareiro.repl.co/dtvt.json"
-            }
-        ]
-    },
-    {
-        "name": "EVENTOS MLS y MAS",
-        "samples": [
-            {
-                "name": "APPLE TV FHD",
-                "uri": "lydRIclgXKMEyl2bCr4/tsdPObnxfU19dLlBdmluT1CHRCzxS1BNwjkKKIGWF+kC7zlUvNZNLaJngmHej2tSwg==",
-                "icono": "https://www.apple.com/newsroom/images/tile-images/Apple-introduces-apple-tv-plus-03252019.jpg.landing-big_2x.jpg"
-            },
-            {
-                "name": "APLLE TV",
-                "uri": "lydRIclgXKMEyl2bCr4/tsdPObnxfU19dLlBdmluT1CHRCzxS1BNwjkKKIGWF+kC8mavcTJIRrTCq53hJGNSTA==",
-                "icono": "https://www.apple.com/newsroom/images/tile-images/Apple-introduces-apple-tv-plus-03252019.jpg.landing-big_2x.jpg"
-            }
-        ]
-    },
+    
     {
         "name": "TIGO SPORTS PROBAR TODAS LAS OPCIONES ANTES DE HACER UN RECLAMO",
         "samples": [
             {
                 "name": "TIGO",
-                "uri": "9FpGx6+juF78MFWzPzYhWZJguzS9buTqZwyfk1Mjs3b2wD1w+iKcA9R3hKYbTXZdbF7WbEjnj+pUF9aMJl9wCZztszgiRsfi+07vZoZEJGcjkELGl0+b+n/ydq1LI5md",
-                "icono": "https://i.ibb.co/bQxPJ4D/ead-QN2-W9-400x400.jpg"
-            },
-            {
-                "name": "TIGO",
-                "uri": "9FpGx6+juF78MFWzPzYhWZJguzS9buTqZwyfk1Mjs3b2wD1w+iKcA9R3hKYbTXZdrDPRp3+126IizimywNUHDhOaUYefUOksbCu0rt1a/JlYiKLv8FfFC5RbPi8Vo07G",
-                "icono": "https://i.ibb.co/bQxPJ4D/ead-QN2-W9-400x400.jpg"
-            },
-            {
-                "name": "TIGO",
-                "uri": "9FpGx6+juF78MFWzPzYhWZJguzS9buTqZwyfk1Mjs3b2wD1w+iKcA9R3hKYbTXZdrDPRp3+126IizimywNUHDvL72aQmMzDYTG64Ugi30OuxXO8KQ2BhJKbYjYhyf9qO",
+                "uri": "https://playlist.nuum.ru/live/92188/tracks-v1a1/mono.m3u8",
                 "icono": "https://i.ibb.co/bQxPJ4D/ead-QN2-W9-400x400.jpg"
             },
             {
@@ -64,11 +23,7 @@
                 "uri": "HhxVCyMJorpOqEvNi9KOEcYqgKysPK/V30EZNmqXklAu5rXNbg8O+sGErxz7HW5LL8Qxw7AFIXg7tRqy0g4zig==",
                 "icono": "https://i.postimg.cc/QxXn43pS/ver-tigo-sports-en-vivo.jpg"
             },
-            {
-                "name": "TIGO4",
-                "uri": "HhxVCyMJorpOqEvNi9KOEcYqgKysPK/V30EZNmqXklAu5rXNbg8O+sGErxz7HW5LA+zyotDOMuLkOrAkI6IpVg==",
-                "icono": "https://i.postimg.cc/QxXn43pS/ver-tigo-sports-en-vivo.jpg"
-            },
+          
             {
                 "name": "TIGO GUATEMALA",
                 "uri": "ML5vvzyMkIlkpzCkeNlcxNZtE1YSiEmPkrLQbBbSo1MYGfIig7eidR8wlt9DOrCIReZmAQk2lQ8UQVQazSgFpXOJvxnahlcbggxqbaX8Y4Q=",
