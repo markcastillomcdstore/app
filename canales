@@ -3063,5 +3063,110 @@
                 "icono": "https://images.pluto.tv/channels/5f85cf621d6d2200079f1de0/colorLogoPNG.png"
             }
         ]
-    }
+    },
+{
+    "name": "⚽DEPORTES BRASIL",
+    "samples": [
+        {
+            "name": "BAND SPORTS",
+            "uri": "http://loadbl2.online:80/PousadaARG/Cplus335780/17604.m3u8",
+            "icono": "https://imgur.com/LdKmx1j.jpeg"
+        },
+        {
+            "name": "CAZÉ TV",
+            "uri": "http://loadbl2.online:80/PousadaARG/Cplus335780/1114732.m3u8",
+            "icono": "https://i.imgur.com/mQC6j1N.jpeg"
+        },
+        {
+            "name": "CAZÉ TV 2",
+            "uri": "http://loadbl2.online:80/PousadaARG/Cplus335780/1786048.m3u8",
+            "icono": "https://i.imgur.com/mQC6j1N.jpeg"
+        },
+        {
+            "name": "ESPN",
+            "uri": "http://loadbl2.online:80/PousadaARG/Cplus335780/17711.m3u8",
+            "icono": "https://upload.wikimedia.org/wikipedia/commons/7/77/Logo_espnbrasil.png"
+        },
+        {
+            "name": "ESPN 2",
+            "uri": "http://loadbl2.online:80/PousadaARG/Cplus335780/1107734.m3u8",
+            "icono": "https://www.tvmagazine.com.br/imagens/icones/600/espn4.png"
+        },
+        {
+            "name": "PREMIERE CLUBES 4K",
+            "uri": "http://loadbl2.online:80/PousadaARG/Cplus335780/1107720.m3u8",
+            "icono": "https://imgur.com/v1fsOow.png"
+        },
+        {
+            "name": "PREMIERE",
+            "uri": "http://loadbl2.online:80/PousadaARG/Cplus335780/37550.m3u8",
+            "icono": "https://images.uncyc.org/pt/f/f1/Logotipo_PFC.png"
+        },
+        {
+            "name": "PREMIERE OP2",
+            "uri": "http://loadbl2.online:80/PousadaARG/Cplus335780/35317.m3u8",
+            "icono": "https://images.uncyc.org/pt/f/f1/Logotipo_PFC.png"
+        },
+        {
+            "name": "PREMIERE 2",
+            "uri": "http://loadbl2.online:80/PousadaARG/Cplus335780/37551.m3u8",
+            "icono": "https://imgur.com/Wj9yepw.jpeg"
+        },
+        {
+            "name": "PREMIERE 3",
+            "uri": "http://loadbl2.online:80/PousadaARG/Cplus335780/113131.m3u8",
+            "icono": "https://imgur.com/Wj9yepw.jpeg"
+        },
+        {
+            "name": "SPORT TV",
+            "uri": "http://loadbl2.online:80/PousadaARG/Cplus335780/663353.m3u8",
+            "icono": "https://i.imgur.com/RM9sLUs.png"
+        },
+        {
+            "name": "SPORT TV OP2",
+            "uri": "http://loadbl2.online:80/PousadaARG/Cplus335780/113110.m3u8",
+            "icono": "https://imgur.com/AznDBJd.jpeg"
+        },
+        {
+            "name": "SPORT TV 2",
+            "uri": "http://loadbl2.online:80/PousadaARG/Cplus335780/18238.m3u8",
+            "icono": "https://imgur.com/AznDBJd.jpeg"
+        },
+        {
+            "name": "SPORT TV 3",
+            "uri": "http://loadbl2.online:80/PousadaARG/Cplus335780/18240.m3u8",
+            "icono": "https://imgur.com/WHWT22B.jpeg"
+        },
+        {
+            "name": "TNT SPORTS EVENTOS",
+            "uri": "http://loadbl2.online:80/PousadaARG/Cplus335780/106773.m3u8",
+            "icono": "https://golazzo.com.br/wp-content/uploads/2021/01/Esporte-Interativo-Ei-Plus-Estadio-TNT-Sports.jpg"
+        },
+        {
+            "name": "FOX SPORTS 2",
+            "uri": "http://loadbl2.online:80/PousadaARG/Cplus335780/17770.m3u8",
+            "icono": "https://imgur.com/pT0AwHe.jpeg"
+        },
+        {
+            "name": "UFC",
+            "uri": "http://loadbl2.online:80/PousadaARG/Cplus335780/1620234.m3u8",
+            "icono": "https://blogger.googleusercontent.com/img/a/AVvXsEhpkHjz8Y2Mes0_ffpiNxZ6zz8yxinYYP-_nOrjGh4mH6eND50LWaMD2QfPp6i3OjZAtreh-UDVesBFfngZWvxkppaesWX1KaKi8PcTYsrBfp_cNxbHLmX8LKOU8rLQ_nHgP5p2x8LsqMMBV3-HViiv-oHoGG6b9DscQVszGcfIH8DClh6e74gHmb2-"
+        },
+        {
+            "name": "COMBATE",
+            "uri": "http://loadbl2.online:80/PousadaARG/Cplus335780/113145.m3u8",
+            "icono": "https://imgur.com/OlDFDhV.jpeg"
+        },
+        {
+            "name": "UFC FIGHT PASS",
+            "uri": "http://loadbl2.online:80/PousadaARG/Cplus335780/1620234.m3u8",
+            "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShd7CwgOepHn8-Q5Wa8fqaMzhSZI3LUeFVNXkcxwPwI4VqI0cSCVZO7Zry7T-RYffMINA&usqp=CAU"
+        },
+        {
+            "name": "UFC FIGHT PASS",
+            "uri": "http://loadbl2.online:80/PousadaARG/Cplus335780/1620234.m3u8",
+            "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShd7CwgOepHn8-Q5Wa8fqaMzhSZI3LUeFVNXkcxwPwI4VqI0cSCVZO7Zry7T-RYffMINA&usqp=CAU"
+        }
+    ]
+}
 ]
