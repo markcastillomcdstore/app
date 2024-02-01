@@ -3168,5 +3168,80 @@
             "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShd7CwgOepHn8-Q5Wa8fqaMzhSZI3LUeFVNXkcxwPwI4VqI0cSCVZO7Zry7T-RYffMINA&usqp=CAU"
         }
     ]
+},
+{
+    "name": "🇺🇾 URUGUAY",
+    "samples": [
+        {
+            "name": "TV CIUDAD OPC 2",
+            "uri": "http://multiextrem.xyz:80/play/q2BASytLPAB5mwoHTx5J9tGikguBNYIwT5_cIABKcQlq04A8ESUjiaSln100GHQI/m3u8",
+            "icono": "https://upload.wikimedia.org/wikipedia/commons/0/08/TV_Ciudad_logo_2019.png"
+        },
+        {
+            "name": "CANAL 12",
+            "uri": "http://multiextrem.xyz:80/play/q2BASytLPAB5mwoHTx5J9tGikguBNYIwT5_cIABKcQntLykyXiCep4hNMcsjSwk3/m3u8",
+            "icono": "https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/UY/192.png"
+        },
+        {
+            "name": "CANAL 10 SAETA ",
+            "uri": "http://multiextrem.xyz:80/play/q2BASytLPAB5mwoHTx5J9tGikguBNYIwT5_cIABKcQlhnECSXnwozb8cwduvNx5n/m3u8",
+            "icono": "https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/UY/193.png"
+        },
+        {
+            "name": "CANAL 10 SAETA ",
+            "uri": "http://multiextrem.xyz:80/play/q2BASytLPAB5mwoHTx5J9tGikguBNYIwT5_cIABKcQlhnECSXnwozb8cwduvNx5n/m3u8",
+            "icono": "https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/UY/193.png"
+        },
+        {
+            "name": "LA RED ",
+            "uri": "http://multiextrem.xyz:80/play/q2BASytLPAB5mwoHTx5J9gx2wTmG5WPyMtlaNDBWgYnier8r6N_XTKX0FaWhsPRE/m3u8",
+            "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbDn4gFxZw2yDzetkyIVjCcUPKLKnIYSkaxsqmHMdjJQ&s"
+        },
+        {
+            "name": "HIPODROMO MARONAS",
+            "uri": "http://multiextrem.xyz:80/play/q2BASytLPAB5mwoHTx5J9tGikguBNYIwT5_cIABKcQlHipoQc9g8fUGx1lJbEXFp/m3u8",
+            "icono": "https://seeklogo.com/images/M/maro__as-logo-E873D14D49-seeklogo.com.png"
+        },
+        {
+            "name": "VTV",
+            "uri": "http://multiextrem.xyz:80/play/q2BASytLPAB5mwoHTx5J9tGikguBNYIwT5_cIABKcQm8HCHpUorjTGVGJ1swRme_/m3u8",
+            "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2DZOHIublQllnhQ5ioGN5Nx5Kw4LXvnXrH6XOcgMCefxSt858GdNrW5bYvSMxqTEySRQ&usqp=CAU"
+        },
+        {
+            "name": "VTV PLUS ",
+            "uri": "http://multiextrem.xyz:80/play/q2BASytLPAB5mwoHTx5J9gx2wTmG5WPyMtlaNDBWgYkP839pHxp25UrIgiFdnMYD/m3u8",
+            "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Logo_VTV_Plus_nuevo.png/1200px-Logo_VTV_Plus_nuevo.png"
+        },
+        {
+            "name": "VTV PLUS 2",
+            "uri": "http://multiextrem.xyz:80/play/q2BASytLPAB5mwoHTx5J9gx2wTmG5WPyMtlaNDBWgYkP839pHxp25UrIgiFdnMYD/m3u8",
+            "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Logo_VTV_Plus_nuevo.png/1200px-Logo_VTV_Plus_nuevo.png"
+        },
+        {
+            "name": "VTV PLUS 3",
+            "uri": "http://loadbl2.online:80/PousadaARG/Cplus335780/1583856.m3u8",
+            "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Logo_VTV_Plus_nuevo.png/1200px-Logo_VTV_Plus_nuevo.png"
+        },
+        {
+            "name": "PPV ",
+            "uri": "http://multiextrem.xyz:80/play/q2BASytLPAB5mwoHTx5J9gx2wTmG5WPyMtlaNDBWgYlzulINRd_SoGqGajUy19BV/m3u8",
+            "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Sol_de_Mayo-Bandera_de_Uruguay.svg/768px-Sol_de_Mayo-Bandera_de_Uruguay.svg.png"
+        },
+        {
+            "name": "PPV 2 ",
+            "uri": "http://multiextrem.xyz:80/play/q2BASytLPAB5mwoHTx5J9gx2wTmG5WPyMtlaNDBWgYk4EgcCzOGXCkmi5XxWDm-S/m3u8",
+            "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Sol_de_Mayo-Bandera_de_Uruguay.svg/768px-Sol_de_Mayo-Bandera_de_Uruguay.svg.png"
+        },
+        {
+            "name": "PPV 3 ",
+            "uri": "http://multiextrem.xyz:80/play/q2BASytLPAB5mwoHTx5J9gx2wTmG5WPyMtlaNDBWgYnVgrdNDCFCnjUIL98ow7n4/m3u8",
+            "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Sol_de_Mayo-Bandera_de_Uruguay.svg/768px-Sol_de_Mayo-Bandera_de_Uruguay.svg.png"
+        },
+        {
+            "name": "PPV 4 ",
+            "uri": "http://multiextrem.xyz:80/play/q2BASytLPAB5mwoHTx5J9gx2wTmG5WPyMtlaNDBWgYnynyeShvqT1ZqKqJrYrZub/m3u8",
+            "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Sol_de_Mayo-Bandera_de_Uruguay.svg/768px-Sol_de_Mayo-Bandera_de_Uruguay.svg.png"
+        }
+    ]
 }
 ]
