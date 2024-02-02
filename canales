@@ -20,7 +20,7 @@
             },
             {
                 "name": "TIGO3",
-                "uri": "https://prod-ec-sa-east-1.video.pscp.tv/Transcoding/v1/hls/XPGd6_KPIXjVZgw1BevflKOYoEMN8HrTRmszTXt1m9klCVs97Z8A4KhIKCIAKHYr2MBaM-pwzjC-H4865EsaNw/transcode/sa-east-1/periscope-replay-direct-prod-sa-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/tw_dynamic_highlatency.m3u8?type=live",
+                "uri": "https://prod-ec-sa-east-1.video.pscp.tv/Transcoding/v1/hls/me_QWAzdJ4b6hMITkYcvTt7Nxw2aqMhey1bn5f_F5sT84VtTOdny8HaqRrusyqxsDOyfIGUni-Ctk2TheqD2pw/transcode/sa-east-1/periscope-replay-direct-prod-sa-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/tw_dynamic_highlatency.m3u8?type=live",
                 "icono": "https://i.postimg.cc/QxXn43pS/ver-tigo-sports-en-vivo.jpg"
             },
           
