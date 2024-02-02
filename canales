@@ -3273,5 +3273,30 @@
             "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Gran_hermano.webp/800px-Gran_hermano.webp.png"
         }
     ]
+},
+{
+    "name": "APPLE TV",
+    "samples": [
+      {
+    "name": "APPLE TV 1",
+    "icono": "https://m.media-amazon.com/images/I/513naL3U+8L.png",
+    "uri": "http://loadbl2.online:80/PousadaARG/Cplus335780/1793675.m3u8"
+  },
+  {
+     "name": "APPLE TV 2",
+    "icono": "https://m.media-amazon.com/images/I/513naL3U+8L.png",
+    "uri": "http://loadbl2.online:80/PousadaARG/Cplus335780/1793676.m3u8"
+  },
+  {
+    "name": "APPLE TV 3",
+    "icono": "https://m.media-amazon.com/images/I/513naL3U+8L.png",
+    "uri": "http://loadbl2.online:80/PousadaARG/Cplus335780/1793677.m3u8"
+  },
+  {
+    "name": "APPLE TV 4",
+    "icono": "https://m.media-amazon.com/images/I/513naL3U+8L.png",
+    "uri": "http://loadbl2.online:80/PousadaARG/Cplus335780/1793678.m3u8"
+  }
+]
 }
 ]
