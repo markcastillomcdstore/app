@@ -3246,33 +3246,35 @@
 },
 {
     "name": "GRAN HERMANO ARGENTINA",
-    "samples": [
-        {
-            "name": "GRAN HERMANO - Telefe ",
-            "uri": "http://multiextrem.xyz:80/play/q2BASytLPAB5mwoHTx5J9og6NFCsJ1V3r7DORpRUnX9pAkf-eN_XQ-2l47jmqWaf/m3u8",
-            "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Gran_hermano.webp/800px-Gran_hermano.webp.png"
-        },
-        {
-            "name": "GRAN HERMANO ARGENTINA",
-            "uri": "http://multiextrem.xyz:80/play/q2BASytLPAB5mwoHTx5J9tGikguBNYIwT5_cIABKcQmqSnbd1mljaU4w3A2hezhw/m3u8",
-            "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Gran_hermano.webp/800px-Gran_hermano.webp.png"
-        },
-        {
-            "name": "GRAN HERMANO CAM 1",
-            "uri": "http://multiextrem.xyz:80/play/q2BASytLPAB5mwoHTx5J9tGikguBNYIwT5_cIABKcQnnUch_QWpruY4kHsDp-wRv/m3u8",
-            "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Gran_hermano.webp/800px-Gran_hermano.webp.png"
-        },
-        {
-            "name": "GRAN HERMANO CAM 2",
-            "uri": "http://multiextrem.xyz:80/play/q2BASytLPAB5mwoHTx5J9tGikguBNYIwT5_cIABKcQkCjMtd_odSj1pQryaET4Rk/m3u8",
-            "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Gran_hermano.webp/800px-Gran_hermano.webp.png"
-        },
-        {
-            "name": "GRAN HERMANO CAM 3 ",
-            "uri": "http://multiextrem.xyz:80/play/q2BASytLPAB5mwoHTx5J9tGikguBNYIwT5_cIABKcQn-lb2aXenWj5p-xSzeEYrv/m3u8",
-            "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Gran_hermano.webp/800px-Gran_hermano.webp.png"
-        }
-    ]
+    "samples":  [
+
+{
+        "name": "GRAN HERMANO - Telefe",
+        "uri" : "http://multiextrem.xyz:80/play/q2BASytLPAB5mwoHTx5J9og6NFCsJ1V3r7DORpRUnX9pAkf-eN_XQ-2l47jmqWaf/m3u8",
+         "icono": "https://media.sitioandino.com.ar/p/9f10a160c810fb0ebd3c468d7903f716/adjuntos/335/imagenes/000/211/0000211527/790x0/smart/gran-hermanojpgwebp.png"
+},
+{
+        "name": "GRAN HERMANO ARGENTINA",
+        "uri" : "http://multiextrem.xyz:80/play/q2BASytLPAB5mwoHTx5J9tGikguBNYIwT5_cIABKcQmqSnbd1mljaU4w3A2hezhw",
+         "icono": "https://media.sitioandino.com.ar/p/9f10a160c810fb0ebd3c468d7903f716/adjuntos/335/imagenes/000/211/0000211527/790x0/smart/gran-hermanojpgwebp.png"
+},
+{
+        "name": "GRAN HERMANO CAM 1",
+        "uri" : "http://multiextrem.xyz:80/play/q2BASytLPAB5mwoHTx5J9tGikguBNYIwT5_cIABKcQnnUch_QWpruY4kHsDp-wRv",
+         "icono": "https://media.sitioandino.com.ar/p/9f10a160c810fb0ebd3c468d7903f716/adjuntos/335/imagenes/000/211/0000211527/790x0/smart/gran-hermanojpgwebp.png"
+},
+{
+        "name": "GRAN HERMANO CAM 2",
+        "uri" : "http://multiextrem.xyz:80/play/q2BASytLPAB5mwoHTx5J9tGikguBNYIwT5_cIABKcQkCjMtd_odSj1pQryaET4Rk",
+         "icono": "https://media.sitioandino.com.ar/p/9f10a160c810fb0ebd3c468d7903f716/adjuntos/335/imagenes/000/211/0000211527/790x0/smart/gran-hermanojpgwebp.png"
+},
+{
+        "name": "GRAN HERMANO CAM 3",
+        "uri" : "http://multiextrem.xyz:80/play/q2BASytLPAB5mwoHTx5J9tGikguBNYIwT5_cIABKcQn-lb2aXenWj5p-xSzeEYrv",
+         "icono": "https://media.sitioandino.com.ar/p/9f10a160c810fb0ebd3c468d7903f716/adjuntos/335/imagenes/000/211/0000211527/790x0/smart/gran-hermanojpgwebp.png"
+}
+
+]
 },
 {
     "name": "APPLE TV",
