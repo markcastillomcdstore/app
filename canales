@@ -942,14 +942,14 @@
                 "name": "FOX SPORTS 2 AR",
                 "uri": "https://edge-live11-hr.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_Live_dash_enc/FoxSports2HD.mpd",
                 "drm_scheme": "clearkey",
-                "drm_license_uri": "https://mute.mariabareiro.repl.co/HELLOWORL/fs2.json",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=c98ddffc470fe449ae1a8d6492116976&key=5086d370e840010232cf4532b16e197f",
                 "icono": "https://i.ibb.co/F8Db1qG/photo1694966139.jpg"
             },
             {
                 "name": "FOX SPORTS 3 AR",
                 "uri": "https://edge-live11-hr.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_Live_dash_enc/FoxSports3HD.mpd",
                 "drm_scheme": "clearkey",
-                "drm_license_uri": "https://mute.mariabareiro.repl.co/HELLOWORL/fs3.json",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=55b47390cf9e4997dae6dac85e057875&key=fa39e855543c5d70f30600d59e5e4c1b",
                 "icono": "https://i.ibb.co/GtyfsM4/photo1694966150.jpg"
             },
             {
