@@ -695,7 +695,7 @@
                 "uri": "https://unipluslivedash.akamaized.net/dash/live/2029899/universalpremiert0/manifest.mpd",
                 "drm_scheme": "clearkey",
                 "icono": "https://ayuda.tigo.com.bo/hc/article_attachments/17871817726099",
-                "drm_license_uri": "https://eventos.mariabareiro.repl.co/uni.json"
+                "drm_license_uri": "https://raw.githubusercontent.com/markcastillomcdstore/unip/main/Unip"
             },
 {
                 "name": "UNIVERSAL CHANNEL",
