@@ -716,28 +716,28 @@
                 "uri": "https://unipluslivedash.akamaized.net/dash/live/2029959/universalcomedyt0/manifest.mpd",
                 "drm_scheme": "clearkey",
                 "icono": "https://i.ibb.co/GVxjP47/universal-comedy-dark-logo.png",
-                "drm_license_uri": "https://eventos.mariabareiro.repl.co/comedy.json"
+                "drm_license_uri": "https://raw.githubusercontent.com/markcastillomcdstore/Comedy/main/Comedy"
             },
             {
                 "name": "UNIVERSAL REALITY",
                 "uri": "https://unipluslivedash.akamaized.net/dash/live/2029943/universalrealityt0/manifest.mpd",
                 "drm_scheme": "clearkey",
                 "icono": "https://i.ibb.co/GVxjP47/universal-comedy-dark-logo.png",
-                "drm_license_uri": "https://eventos.mariabareiro.repl.co/reality.json"
+                "drm_license_uri": "https://raw.githubusercontent.com/markcastillomcdstore/Reality/main/Reality"
             },
 {
                 "name": "UNIVERSAL CRIME",
                 "uri": "https://unipluslivedash.akamaized.net/dash/live/2029945/universalcrimet0/manifest.mpd",
                 "drm_scheme": "clearkey",
                 "icono": "https://tvlatinolibre.com/wp-content/uploads/2023/07/Diseno-sin-titulo-73.png",
-                "drm_license_uri": "https://eventos.mariabareiro.repl.co/crime.json"
+                "drm_license_uri": "https://raw.githubusercontent.com/markcastillomcdstore/Crime/main/Crime"
             },
 {
                 "name": "UNIVERSAL CINEMA",
                 "uri": "https://unipluslivedash.akamaized.net/dash/live/2029942/universalcinemat0/manifest.mpd",
                 "drm_scheme": "clearkey",
                 "icono": "https://tvlatinolibre.com/wp-content/uploads/2023/07/Diseno-sin-titulo-73.png",
-                "drm_license_uri": "https://eventos.mariabareiro.repl.co/cinema.json"
+                "drm_license_uri": "https://raw.githubusercontent.com/markcastillomcdstore/Cinema/main/Cinema"
             }
         ]
     },
