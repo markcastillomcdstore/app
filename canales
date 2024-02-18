@@ -1526,10 +1526,12 @@
                 "icono": "https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/d/s/dsports_fight.png"
             },
             {
-                "name": "DIRECT TV MOTOR ",
-                "uri": "http://multiextrem.xyz:80/play/q2BASytLPAB5mwoHTx5J9hSTaZOAOK3YEQl9Jp5z4-vVJLYnUQM1AYFQRy7EF3gs",
-                "icono": "https://i.ibb.co/ygkBqZ8/screenshot-2023-06-07-19-45-41.jpg"
-            },
+        "name": "DIRECTV MOTORS MPD",
+        "uri": "https://proxy.sintv.cl/py.php/https://1279-abc-da-bpk.dtvott.com/dash_live_1279/manifest.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=86531a9305d65cb78b18b2c14024320e&key=0070dbc490f3b5edfe1f68503fb6402c",
+        "icono": "https://ibb.co/Rg4Sz7p"
+      },
             {
                 "name": "DIRECT TV NEWS ",
                 "uri": "http://multiextrem.xyz:80/play/q2BASytLPAB5mwoHTx5J9hSTaZOAOK3YEQl9Jp5z4-sGI4UFaSr1o208v-Rvc6JC",
