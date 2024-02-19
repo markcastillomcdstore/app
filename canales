@@ -32,7 +32,14 @@
 {
 "name":"goti",
 "uri":"http://multiextrem.xyz:80/play/q2BASytLPAB5mwoHTx5J9tGikguBNYIwT5_cIABKcQljLMIKOVxteaV9qGLCS375/m3u8"
-}
+},
+{
+                "name": "GOLDEN",
+                "uri": "https://chromecast.cvattv.com.ar/live/c7eds/ESPN4/SA_Live_dash_enc_2A/ESPN4.mpd",
+                "drm_scheme": "widevine",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png",
+                "drm_license_uri": "https://wv-client.cvattv.com.ar/?deviceId=M2Q0YjlkNjFkMDY5Mzc2MDg4Njg2M2MyNWI5Yzk2OTQ="
+            }
         ]
     },
     {
