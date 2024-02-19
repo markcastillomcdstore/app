@@ -32,14 +32,7 @@
 {
 "name":"goti",
 "uri":"http://multiextrem.xyz:80/play/q2BASytLPAB5mwoHTx5J9tGikguBNYIwT5_cIABKcQljLMIKOVxteaV9qGLCS375/m3u8"
-},
-{
-                "name": "GOLDEN",
-                "uri": "https://cdn.cvattv.com.ar/live/c6eds/Europa_Europa/SA_Live_dash_enc/Europa_Europa.mpd",
-                "drm_scheme": "widevine",
-                "icono": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png",
-                "drm_license_uri": "https://wv-client.cvattv.com.ar/?deviceId=ZTFhM2MzN2M4NjBkYjc5NDkxMjYyMTg1M2RhNGM1YTQ%3D"
-            }
+}
         ]
     },
     {
