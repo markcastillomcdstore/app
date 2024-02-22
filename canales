@@ -1533,6 +1533,13 @@
                 "icono": "https://i.postimg.cc/ht4pLgJ2/IMG-20230917-115910-727.jpg",
                 "drm_license_uri": "1Dh0aiPKTARVnGPLLvpMuBvVe2hv5OoR7tEbdi1MCaNSJGBlHSyFMlrn7ySpa1rJ01rcNZJ8ArCpJAPLzZ0Zg8xxeCeNX1NdejnawD5qXejkd9a67KkeBNOx4GTjfqT7RTIqmwfmgaU3e6ThLiAKp/6JPhh2wQ/uyhqJKINA5cVfCuUafgl7Y1KpVn0qvF7TAOHgXwugCR+nfXXtP9aeYw=="
             },
+ {
+                "name": "FOX SPORTS PREMIUM",
+                "uri": "http://cdn.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd",
+                "drm_scheme": "clearkey",
+                "icono": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/fsp.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4c230dbc7f6a4bfa6ad0aa73ff792374&key=4186a7c2a15f590a9399886feaec4257"
+            },
             {
                 "name": "TNT SPORT ARGENTINA HD",
                 "uri": "6MdceifF8swN1HizavWqeMsnUtlBdC/qoYVWeE9NzujqNsKdv7OkDmDR5O/ZD8/U+JO1y+wNYNrjjrI/ycsR4oN+B68XU3SmOPdc30Fm3IH7t1U5TswSdd8Y+n1pXo6j",
