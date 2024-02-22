@@ -28,11 +28,7 @@
                 "name": "TIGO GUATEMALA",
                 "uri": "ML5vvzyMkIlkpzCkeNlcxNZtE1YSiEmPkrLQbBbSo1MYGfIig7eidR8wlt9DOrCIReZmAQk2lQ8UQVQazSgFpXOJvxnahlcbggxqbaX8Y4Q=",
                 "icono": "https://i.postimg.cc/QxXn43pS/ver-tigo-sports-en-vivo.jpg"
-            },
-{
-"name":"goti",
-"uri":"http://multiextrem.xyz:80/play/q2BASytLPAB5mwoHTx5J9tGikguBNYIwT5_cIABKcQljLMIKOVxteaV9qGLCS375/m3u8"
-},
+            }
 {
                 "name": "GOLDEN",
                 "uri": "http://gtechtecnologia.com/dtv/434c41524f2053504f525453204844.mpd",
@@ -45,13 +41,7 @@
     {
         "name": "🎬 CINE Y SERIES",
         "samples": [
-            {
-                "name": "GOLDEN",
-                "uri": "https://tvup-ccs-live.secure2.footprint.net/goldentvhd/goldentvhd.mpd",
-                "drm_scheme": "clearkey",
-                "icono": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png",
-                "drm_license_uri": "https://kk.carlosrf1.repl.co/golden.json"
-            },
+            
             {
                 "name": "TCM",
                 "uri": "HYj1mQswC+Qz/gW3GNf2Z/KIvc13jEShsv8KSiABbVoDdQ1GOYigq6SRyw+5gtks7wmViEWW4NNOBGYvwQ255IXQP46SUzeNBsGIKHQngNo=",
