@@ -32,10 +32,10 @@
 
 {
                 "name": "GOLDEN",
-                "uri": "https://anedgesgo.express.com.ar/live/c1eds/Golden/SA_DASH_cipix/Golden.mpd?dvr_window_length=30",
-                "drm_scheme": "widevine",
+                "uri": "https://proxy.sintv.cl/py.php/https://1057-vos-da-mt.dtvott.com/DASH/manifest.mpd",
+                "drm_scheme": "clearkey",
                 "icono": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png",
-                "drm_license_uri": "https://widevine.tvsa.boldmss.com/license"
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=7ac053ce4a6c3786a71c23c36bfed028&key=b324da5a858840ee79ba4bc1df9ffd95"
             }
         ]
     },
