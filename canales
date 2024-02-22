@@ -2832,46 +2832,5 @@
                 "icono": "https://images.pluto.tv/channels/5f85cf621d6d2200079f1de0/colorLogoPNG.png"
             }
         ]
-    },
-{
-    "name": "🇧🇷 BRASIL",
-    "samples": [
-
-        {
-            "name": "CNN BRASIL",
-            "uri": "https://proxy.sintv.cl/py.php/https://dtvott-jbc.akamaized.net/dash_live_0024/manifest.mpd?da=0&country=UY&accountType=OTT",
-            "drm_scheme": "clearkey",
-            "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=728b67f9ea65585baf3ef8ad2fd2a667&key=0d24ec9c9bebe840d2b01b0b4c6273ac",
-            "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/1200px-CNN_Brasil.svg.png"
-        },
-        {
-            "name": "BandNews",
-            "uri": "https://proxy.sintv.cl/py.php/https://dtvott-jbc.akamaized.net/dash_live_0008/manifest.mpd?da=0&country=UY&accountType=OTT",
-            "drm_scheme": "clearkey",
-            "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=3190bd4ce11356dfa654b03f5848e20d&key=ece44d39178c9cae59bcd9631e5a0b8e",
-            "icono": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMDg5X2xpbmVhcl9jaGFubmVsX2Jy_11002_LOGO_360x270.png?timestamp=1685504641774"
-        },
-        {
-            "name": "GLOBO TV",
-            "uri": "https://proxy.sintv.cl/py.php/https://dtvott-jbc.akamaized.net/dash_live_0095/manifest.mpd",
-            "drm_scheme": "clearkey",
-            "drm_license_uri": "https://dl.dropbox.com/scl/fi/37ermryrinil0et4hm7pa/KEY.GLOBO.json?rlkey=5vlhvibqwcb5fa6nidcwy4inv&dl=0",
-            "icono": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Globo_logo_and_wordmark.svg"
-        },
-        {
-            "name": "GLOBO BRASILIA",
-            "uri": "https://proxy.sintv.cl/py.php/https://dtvott-jbc.akamaized.net/dash_live_0093/manifest.mpd?da=0&country=UY&accountType=OTT",
-            "drm_scheme": "clearkey",
-            "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=a596b87acbcc5bdf8fb1a35abed83b86&key=c08c8364c5f86382e7c83c5f52aab530",
-            "icono": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Globo_logo_and_wordmark.svg"
-        },
-        {
-            "name": "SBT",
-            "uri": "https://proxy.sintv.cl/py.php/https://dtvott-jbc.akamaized.net/dash_live_0035/manifest.mpd?da=0&country=UY&accountType=OTT",
-            "drm_scheme": "clearkey",
-            "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=3ad3dca103185934acff7a0e9000c112&key=de7c7930aa85049f7cb7befdbcdc54dd",
-            "icono": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTE0X2xpbmVhcl9jaGFubmVsX2Jy_11002_LOGO_360x270.png?timestamp=1685587402180"
-        }
-     ]
-}
+    }
 ]
