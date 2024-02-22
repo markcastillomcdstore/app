@@ -96,8 +96,13 @@
             },
             {
                 "name": "GOLDEN PLUS",
-                "icono": "https://static.wikia.nocookie.net/logopedia/images/f/f9/Golden_Plus_LA_2020.png/revision/latest/scale-to-width-down/300?cb=20201205211346",
+                "icono": "https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2020_11/large.543972-8c.png.39b2c22efafad7ae47cef4f1f3aa440b.png",
                 "uri": "https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8"
+            },
+{
+                "name": "GOLDEN PREMIER",
+                "icono": "https://static.wikia.nocookie.net/logopedia/images/1/1e/Golden_Premier_2013.jpg/revision/latest?cb=20191216003210&path-prefix=es",
+                "uri": "https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8"
             },
             {
                 "name": "TNT HD",
