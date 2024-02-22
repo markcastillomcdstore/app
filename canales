@@ -32,9 +32,16 @@
 {
                 "name": "GOLDEN",
                 "uri": "http://gtechtecnologia.com/dtv/434c41524f2053504f525453204844.mpd",
-                "drm_scheme": "widevine",
+                "drm_scheme": "clearkey",
                 "icono": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=a4a641e55339db75a2ba4804afee764b&key=436a5c8dcab3df91302c5e6779dc7016"
+            },
+{
+                "name": "GOLDEN",
+                "uri": "https://anedgesgo.express.com.ar/live/c1eds/Golden/SA_DASH_cipix/Golden.mpd?dvr_window_length=30",
+                "drm_scheme": "widevine",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png",
+                "drm_license_uri": "https://widevine.tvsa.boldmss.com/license"
             }
         ]
     },
