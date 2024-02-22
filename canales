@@ -1499,7 +1499,7 @@
                 "icono": "https://i.postimg.cc/vTP72psS/ver-espn-3-en-vivo.jpg"
             },
             {
-                "name": "ESPN 4 OP 2",
+                "name": "ESPN 5",
                 "uri": "6MdceifF8swN1HizavWqeMsnUtlBdC/qoYVWeE9NzugDNnMcm2Rn0D8RlZKdyIdJFYDTGfhIDcYjhS7HQC3QzvXY40brkd8cDimDow3l33I=",
                 "drm_scheme": "clearkey",
                 "icono": "https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/ESPN4/EXPORTACION_WEB/SS/ESPN4_t-290x163.png",
@@ -1540,46 +1540,7 @@
                 "icono": "https://i.postimg.cc/kMkS5BVf/TNT-SPORTS-ARGENTINA.png",
                 "drm_license_uri": "1Dh0aiPKTARVnGPLLvpMuBvVe2hv5OoR7tEbdi1MCaNSJGBlHSyFMlrn7ySpa1rJ01rcNZJ8ArCpJAPLzZ0Zg7+I+atcrcNNjBnryy6rZiBJyt4A9QGEujRhbWL46UCs9NJOTcc2uS2s6j4AlNdmjgbbIqPrDVIh75VI9IakX8jDF3mVTTMnWVHw5XxGM5vz5Fkc6DRlMS52qJ5B0FKZng=="
             },
-            {
-                "name": "SSC SPORTS",
-                "uri": "bPVdeGPTuhbcdkidkYMunAqbBi4LqOwlH/8sUR4MxwRnmW2YU2foPfnSYCPoMzUwS4s2GaHLIXg55M+tp9QRDg==",
-                "icono": "https://palsawa.com/thumb/660x400/uploads/images/2023/08/prkFS.webp"
-            },
-            {
-                "name": "SSC SPORTS 2",
-                "uri": "bPVdeGPTuhbcdkidkYMunAqbBi4LqOwlH/8sUR4MxwRnmW2YU2foPfnSYCPoMzUwMk1wrb+WSrAQgjbJiVanVw==",
-                "icono": "https://palsawa.com/thumb/660x400/uploads/images/2023/08/prkFS.webp"
-            },
-            {
-                "name": "BEIN SPORTS \\u00d1",
-                "uri": "bPVdeGPTuhbcdkidkYMunAqbBi4LqOwlH/8sUR4MxwRnmW2YU2foPfnSYCPoMzUwuOrB7zZSG38zTXnojGlFvA==",
-                "icono": "https://i.pinimg.com/736x/2b/63/38/2b63383e81a408ae91749f92d232935a.jpg"
-            },
-            {
-                "name": "BEIN SPORTS ESPA\\u00d1OL",
-                "uri": "bPVdeGPTuhbcdkidkYMunCWRgSsi/wxqXAJcZ3FaGNXyOdeeUcdGciQ9ko0SKEsRDGuR/9WmoNwagpiAxDFtGQ==",
-                "icono": "https://i.pinimg.com/736x/2b/63/38/2b63383e81a408ae91749f92d232935a.jpg"
-            },
-            {
-                "name": "BEIN SPORTS XTRA",
-                "uri": "bPVdeGPTuhbcdkidkYMunCWRgSsi/wxqXAJcZ3FaGNXYzGh6tsyWP3yuUUymqAl5lje31E72idTmWh0kIebWGA==",
-                "icono": "https://hubdeportivo.com/wp-content/uploads/2022/09/Bein-Sport-XTRA.png"
-            },
-            {
-                "name": "SPORT TV 1  - PORTUGAL",
-                "uri": "bPVdeGPTuhbcdkidkYMunCWRgSsi/wxqXAJcZ3FaGNXyOdeeUcdGciQ9ko0SKEsR4pMgU/LqGuMt5QMfGNslKA==",
-                "icono": "https://www.seekpng.com/png/detail/357-3578768_sport-tv-1-hd.png"
-            },
-            {
-                "name": "ELEVEN SPORTS HD",
-                "uri": "bPVdeGPTuhbcdkidkYMunAqbBi4LqOwlH/8sUR4MxwRnmW2YU2foPfnSYCPoMzUwlD6pKcCA1WYcNH2wCc0Yog==",
-                "icono": "https://www.sportsvideo.org/wp-content/uploads/2017/03/Eleven_Sports_Corporate_horizontal.png"
-            },
-            {
-                "name": "ZIGGO SPORT HD",
-                "uri": "bPVdeGPTuhbcdkidkYMunAqbBi4LqOwlH/8sUR4MxwRnmW2YU2foPfnSYCPoMzUwRl7iE1F3APwflyfgtY0D0w==",
-                "icono": "https://d3tw7elnk2m6f4.cloudfront.net/Misc/_600x600_crop_center-center_75_none/logo_300123.jpg"
-            },
+            
             {
                 "name": "PX SPORTS",
                 "uri": "HYj1mQswC+Qz/gW3GNf2Z/KIvc13jEShsv8KSiABbVr2IOwlgqQCp4sUUzE08ILEnOfz0mWGpdr4jixKB35AyIu2PRPPzrAdlto7oHdHxAhaKlorjy2W3psJL8eNXhTw",
@@ -1587,13 +1548,7 @@
                 "icono": "https://i.ibb.co/JyBzQVp/f80c472f1f5707fddcd3da2fc2a53a42.jpg",
                 "drm_license_uri": "1Dh0aiPKTARVnGPLLvpMuBvVe2hv5OoR7tEbdi1MCaNSJGBlHSyFMlrn7ySpa1rJ01rcNZJ8ArCpJAPLzZ0Zg6GAwhlqaCh729vp/2+huS73Wn9D7YlagL2ebaePpiTwV1knWg/06B2mTv6D2MfeEKessMLVLR+I4+eNSM7gtPvKXZeByZAFY4oUGapfvOT/wTItAXMBOFh5hY+h4ldAmg=="
             },
-            {
-                "name": "LIGA 1",
-                "uri": "7gMaHlf2uSzqQ8j1T6G/AdBN8lQIrcZ/tUWTn5RjsyHSU8JQsMDKAIFcJgTw75I3LTbNEzlLhSeL1XEXD3F05A==",
-                "drm_scheme": "clearkey",
-                "icono": "https://i.postimg.cc/XqHsMGjt/liga1.jpg",
-                "drm_license_uri": "1Dh0aiPKTARVnGPLLvpMuBvVe2hv5OoR7tEbdi1MCaNSJGBlHSyFMlrn7ySpa1rJ01rcNZJ8ArCpJAPLzZ0Zg4WWyBxnaLULcBxg4TxwO6h1/E52VZZjXwt6VM2MvBbM1sQZ8vPRQAECZKTTAWIdsLL2j+PtsrMLcshOKsRF5iA9iEpz7HaSE8ckdSICmgVnt6lXSOACjDQzpXSL8O3JNg=="
-            },
+           
             {
                 "name": "DEPORTV",
                 "uri": "HYj1mQswC+Qz/gW3GNf2Z/KIvc13jEShsv8KSiABbVra8aGWU98t23rS+mOKtURNnOfz0mWGpdr4jixKB35AyCyoMjiTiNpUJcI5S+pfguFaKlorjy2W3psJL8eNXhTw",
@@ -1622,13 +1577,7 @@
                 "icono": "https://i.postimg.cc/Gpn5RLRf/tnt-3377112.png",
                 "drm_license_uri": "1Dh0aiPKTARVnGPLLvpMuBvVe2hv5OoR7tEbdi1MCaNSJGBlHSyFMlrn7ySpa1rJ01rcNZJ8ArCpJAPLzZ0Zg3JYqhnYhOYETj+WFxI/H44BqtSxF6o+axp4C7brQSZuLiAJ3dJkqikR90MHre+eS3lfGIXKKtY3JvWsE1ZxhVnRRqaMMAdRy8sDa6Jo7pd0Y7JQU/OSQqZR1D9UMdSnAw=="
             },
-            {
-                "name": "DEPORTV",
-                "uri": "HYj1mQswC+Qz/gW3GNf2Z/KIvc13jEShsv8KSiABbVra8aGWU98t23rS+mOKtURNnOfz0mWGpdr4jixKB35AyCyoMjiTiNpUJcI5S+pfguFaKlorjy2W3psJL8eNXhTw",
-                "drm_scheme": "clearkey",
-                "icono": "https://i.postimg.cc/bwZgWNd0/ver-depor-tv-en-vivo.png",
-                "drm_license_uri": "1Dh0aiPKTARVnGPLLvpMuBvVe2hv5OoR7tEbdi1MCaNSJGBlHSyFMlrn7ySpa1rJ01rcNZJ8ArCpJAPLzZ0ZgztXQdcW4tcMFJItH2S1yypTK1uUDArATDfzJBy0lsYTvXjnw3o1b+Qi2OnMJwptEePAj7F2dfJ0ZoVbfTm8TpDB5y0gLWcWUQxuw4yyOsub8aFeYuH9VytN6f/gTFLJUg=="
-            },
+           
             {
                 "name": "TYC SPORT",
                 "uri": "6MdceifF8swN1HizavWqeMsnUtlBdC/qoYVWeE9NzugkF3ErxhzRqqJ8imNgJ6qkWe8Xt8wWS6tTv4DTtzG0ubH6lJ47mNno2PtgZhywYIk2qMYR8MZUTxtsvSkWcRLe",
@@ -1680,71 +1629,14 @@
                 "name": "TYC SPORT (PLAY 5)",
                 "uri": "5AvodWuRrBVXdsImzxuyEAybpf+MAFfCCUKrkewtvtNlQpB5hXtQqdrIIRrArN6vh6rssygWXl0SDLD3KkP7cQhL28d+8P8Ce/yOd1RKhdVZy30L0wwCEnwE/18atX2K",
                 "icono": "https://i.postimg.cc/sg8CFdHQ/image.png"
-            },
-            {
-                "name": "EURO  SPORT",
-                "uri": "8U2yP0UbgswO/7GBy80DPJUU2rq04893S4gOTditD+F46IOf4k1VTzch8JXuDpdT0Qve5E+jkRQqevdFrlfyCfiq6prrKlnWBwmHXBszoetaKlorjy2W3psJL8eNXhTw",
-                "drm_scheme": "clearkey",
-                "icono": "https://i.postimg.cc/YCpsC1Sw/eurosports1.jpg",
-                "drm_license_uri": "1Dh0aiPKTARVnGPLLvpMuBvVe2hv5OoR7tEbdi1MCaNSJGBlHSyFMlrn7ySpa1rJ01rcNZJ8ArCpJAPLzZ0Zg5iPw7/STcFd4WZu21dMtJCp8jORS0vv0340YnCG2MZ08OBe6lHme95IlOVH5OL759vp2vm71KUXtjs7DHWS/s9eTcbbhX/0oMTCGMNrvX89D9QxJeomoWyAurJ7g5u7LQ=="
             }
-        ]
-    },
-    {
-        "name": "DAZN",
-        "samples": [
-            {
-                "name": "DAZN ALEMANIA",
-                "uri": "8U2yP0UbgswO/7GBy80DPJUU2rq04893S4gOTditD+F46IOf4k1VTzch8JXuDpdTUjb08FAwBsbQFrpmUp8qGfiq6prrKlnWBwmHXBszoetaKlorjy2W3psJL8eNXhTw",
-                "drm_scheme": "clearkey",
-                "icono": "https://i.postimg.cc/3xk1f9S9/2048px-DAZN-logo-new-svg.png",
-                "drm_license_uri": "h3Gv13KFIHelZjiWVlljEjxMI8ZfyAQUjc73Oj/nrLPCJL8lqNeKTkxcRetiGAYb+gCTHuU8CGonhqqo073/bJwf4pCXrm27cGOZIdvR4uRJFi19HE0bgZUrrPhjPvkXRi6JLSoY7f2yYzGRVsoXallRRpK9XE8RveHvtrbQFqFzvqMHPpK2ByQ2fEm3IE55WipaK48tlt6bCS/HjV4U8A=="
-            },
-            {
-                "name": "DAZN ALEMANIA 2",
-                "uri": "8U2yP0UbgswO/7GBy80DPJUU2rq04893S4gOTditD+F46IOf4k1VTzch8JXuDpdT7yJQ4sdkEtAbHk7aoHxY4Piq6prrKlnWBwmHXBszoetaKlorjy2W3psJL8eNXhTw",
-                "drm_scheme": "clearkey",
-                "icono": "https://i.postimg.cc/3xk1f9S9/2048px-DAZN-logo-new-svg.png",
-                "drm_license_uri": "h3Gv13KFIHelZjiWVlljEjxMI8ZfyAQUjc73Oj/nrLPCJL8lqNeKTkxcRetiGAYb+gCTHuU8CGonhqqo073/bJwf4pCXrm27cGOZIdvR4uRJFi19HE0bgZUrrPhjPvkXRi6JLSoY7f2yYzGRVsoXallRRpK9XE8RveHvtrbQFqFzvqMHPpK2ByQ2fEm3IE55WipaK48tlt6bCS/HjV4U8A=="
-            },
-            {
-                "name": "DAZN ESPA\\u00d1A 1",
-                "uri": "8U2yP0UbgswO/7GBy80DPJUU2rq04893S4gOTditD+F46IOf4k1VTzch8JXuDpdTnJ6Yt5+SWxRcLpv4eN0qKfiq6prrKlnWBwmHXBszoetaKlorjy2W3psJL8eNXhTw",
-                "drm_scheme": "clearkey",
-                "icono": "https://i.postimg.cc/3wvThXRF/dazn1es.jpg",
-                "drm_license_uri": "h3Gv13KFIHelZjiWVlljEjxMI8ZfyAQUjc73Oj/nrLPCJL8lqNeKTkxcRetiGAYb+gCTHuU8CGonhqqo073/bJwf4pCXrm27cGOZIdvR4uRJFi19HE0bgZUrrPhjPvkXRi6JLSoY7f2yYzGRVsoXallRRpK9XE8RveHvtrbQFqFzvqMHPpK2ByQ2fEm3IE55WipaK48tlt6bCS/HjV4U8A=="
-            },
-            {
-                "name": "DAZN ESPA\\u00d1A 2",
-                "uri": "8U2yP0UbgswO/7GBy80DPJUU2rq04893S4gOTditD+F46IOf4k1VTzch8JXuDpdTya2tuLOnwOlFcTCvFVCaXviq6prrKlnWBwmHXBszoetaKlorjy2W3psJL8eNXhTw",
-                "drm_scheme": "clearkey",
-                "icono": "https://i.postimg.cc/h4w1zVPd/dazn2es.jpg",
-                "drm_license_uri": "h3Gv13KFIHelZjiWVlljEjxMI8ZfyAQUjc73Oj/nrLPCJL8lqNeKTkxcRetiGAYb+gCTHuU8CGonhqqo073/bJwf4pCXrm27cGOZIdvR4uRJFi19HE0bgZUrrPhjPvkXRi6JLSoY7f2yYzGRVsoXallRRpK9XE8RveHvtrbQFqFzvqMHPpK2ByQ2fEm3IE55WipaK48tlt6bCS/HjV4U8A=="
-            },
-            {
-                "name": "DAZN FORMULA 1",
-                "uri": "8U2yP0UbgswO/7GBy80DPJUU2rq04893S4gOTditD+F46IOf4k1VTzch8JXuDpdTjRouQLLpHBMqkR1y0miRBPiq6prrKlnWBwmHXBszoetaKlorjy2W3psJL8eNXhTw",
-                "drm_scheme": "clearkey",
-                "icono": "https://i.postimg.cc/nzrqMhy2/1200px-DAZN-F1-logo-svg.png",
-                "drm_license_uri": "h3Gv13KFIHelZjiWVlljEjxMI8ZfyAQUjc73Oj/nrLPCJL8lqNeKTkxcRetiGAYb+gCTHuU8CGonhqqo073/bJwf4pCXrm27cGOZIdvR4uRJFi19HE0bgZUrrPhjPvkXRi6JLSoY7f2yYzGRVsoXallRRpK9XE8RveHvtrbQFqFzvqMHPpK2ByQ2fEm3IE55WipaK48tlt6bCS/HjV4U8A=="
-            },
-            {
-                "name": "DAZN LA LIGA",
-                "uri": "8U2yP0UbgswO/7GBy80DPJUU2rq04893S4gOTditD+F46IOf4k1VTzch8JXuDpdTZVB0L3CSzFQhANreRIIRSfiq6prrKlnWBwmHXBszoetaKlorjy2W3psJL8eNXhTw",
-                "drm_scheme": "clearkey",
-                "icono": "https://i.postimg.cc/vHVLWDcS/DAZN-LA-LIGA.png",
-                "drm_license_uri": "h3Gv13KFIHelZjiWVlljEjxMI8ZfyAQUjc73Oj/nrLPCJL8lqNeKTkxcRetiGAYb+gCTHuU8CGonhqqo073/bJwf4pCXrm27cGOZIdvR4uRJFi19HE0bgZUrrPhjPvkXRi6JLSoY7f2yYzGRVsoXallRRpK9XE8RveHvtrbQFqFzvqMHPpK2ByQ2fEm3IE55WipaK48tlt6bCS/HjV4U8A=="
-            }
+     
         ]
     },
     {
         "name": "🌍 INTERNACIONALES",
         "samples": [
-            {
-                "name": "Telemundo Miami",
-                "uri": "HhxVCyMJorpOqEvNi9KOEcYqgKysPK/V30EZNmqXklCjVj0+one8ZSNKb/2YEugKLYslojrMT22rtU1BfEsjVA==",
-                "icono": "https://i.postimg.cc/SKT2Pm92/telemundo-logo-0-F9-A314635-seeklogo-com.png"
-            },
+            
             {
                 "name": "Telemundo Internacional",
                 "uri": "HYj1mQswC+Qz/gW3GNf2Z/KIvc13jEShsv8KSiABbVrkz5ofluSToYZ7DfK/ZluGZhbxtFwNmUKiOoceQJXwH5cX+P8LOKG60wNKBLFKh2r/sOkoW8CeVxN5a7rS3MIQ",
