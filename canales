@@ -2832,5 +2832,24 @@
                 "icono": "https://images.pluto.tv/channels/5f85cf621d6d2200079f1de0/colorLogoPNG.png"
             }
         ]
-    }
+    },
+{
+    "name": "🇧🇷 BRASIL",
+    "samples": [
+
+     
+        {
+            "name": "GLOBO TV",
+            "uri": "https://cdn-1.nxplay.com.br/GLOBO_SP_TK/index.m3u8",
+           
+            "icono": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/globo.png"
+        },
+        {
+            "name": "REDE BRASIL",
+            "uri": "https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/.m3u8",
+          
+            "icono": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/redebr.png80"
+        }
+     ]
+}
 ]
