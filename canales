@@ -1461,7 +1461,14 @@
     {
         "name": "⚽ DEPORTES ",
         "samples": [
-            {
+           {
+                "name": "PREMIERE",
+                "uri": "https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4zkafrcxji/out/v1/810ebca1aff0443da717da4acdeda158/cenc.mpd",
+                "drm_scheme": "clearkey",
+                "icono": "https://play-lh.googleusercontent.com/2C7U8VNAaVnCJjxcs1VjQXOUwAekGk7FXFfM5cdx6EP4BpiRbrRzJxWXwteHxauntgQ",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d98239180d8380b3a1bb28d875b1ddf2&key=cf836ced579257d1c76ae8809818e6c4"
+            },
+{
                 "name": "CLARO SPORTS",
                 "uri": "http://gtechtecnologia.com/dtv/434c41524f2053504f525453204844.mpd",
                 "drm_scheme": "clearkey",
