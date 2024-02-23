@@ -1462,6 +1462,13 @@
                 "drm_scheme": "clearkey",
                 "icono": "https://futbollibrehd.net/img/logo-canal/DirecTV_Sports.png",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=3e1c0dd8d951335d9d8c534d29277c91&key=978f073eee32606a3f2544306fb1a7b3"
+            },
+{
+                "name": "DIRECTV SPORTS 2",
+                "uri": "https://proxy.sintv.cl/py.php/https://1063-vos-da-mt.dtvott.com/DASH/manifest.mpd",
+                "drm_scheme": "clearkey",
+                "icono": "https://futbollibrehd.net/img/logo-canal/DirecTV_Sports_2.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=c44d52b11dce3875ad2765c9d469075b&key=af4ba31c1324eb92ac88463f7bd941d5"
             }
         ]
     },
