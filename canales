@@ -2887,6 +2887,13 @@
                 "drm_scheme": "clearkey",
                 "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/BandSports_logo.svg/1024px-BandSports_logo.svg.png",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=bd1af42db82f5a17a0d75246f25f5201&key=a9edd4e2c410923e9cbcb261102e5008"
+            },
+{
+                "name": "PREMIERE",
+                "uri": "https://0064-jbc.dtvott.com/dash_live_0079/manifest.mpd",
+                "drm_scheme": "clearkey",
+                "icono": "https://i.postimg.cc/JtVXTcGY/tcm.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=50653a20839a57c8b2d3cde6ddc46cdb&key=key8a505419dccb50ee07ecebf5a6b44c63"
             }
      ]
 }
