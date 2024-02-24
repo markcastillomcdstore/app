@@ -2868,6 +2868,13 @@
            
             "icono": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/globo.png"
         },
+{
+                "name": "GLOBO",
+                "uri": "http://gtechtecnologia.com/dtv/474c4f424f205456204844.mpd",
+                "drm_scheme": "clearkey",
+                "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW7sbIgtm6R5YfT1CAChjdoyZ1jOLpqlWHXg&usqp=CAU",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d716974633523163a90912f20d40a50b&key=2e2945824b82c72bef9dc21c9f004784"
+            },
         {
             "name": "REDE BRASIL",
             "uri": "https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/.m3u8",
@@ -2875,10 +2882,10 @@
             "icono": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/redebr.png80"
         },
 {
-                "name": "SBT BRASIL",
-                "uri": "https://0006-bbc.dtvott.com/dash_live_0035/manifest.mpd",
+                "name": "SBT",
+                "uri": "http://gtechtecnologia.com/dtv/534254204844202842524153494c29.mpd",
                 "drm_scheme": "clearkey",
-                "icono": "https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/1200px-Logotipo_do_SBT.svg.png",
+                "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTwYRUNQdMWVsOmGEZ86Xn3zQtBBEO3EHSwCDZEug0zw&s",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=3ad3dca103185934acff7a0e9000c112&key=3f396659d841a55cd1381e6735ecfa1d"
             },
 {
