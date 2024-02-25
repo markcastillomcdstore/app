@@ -65,6 +65,26 @@
                 "icono": "https://static.wikia.nocookie.net/logopedia/images/1/1e/Golden_Premier_2013.jpg/revision/latest?cb=20191216003210&path-prefix=es",
                 "uri": "https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8"
             },
+{
+                "name": "GOLDEN",
+                "icono": "https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2020_11/large.543972-8c.png.39b2c22efafad7ae47cef4f1f3aa440b.png",
+                "uri": "https://linear-408.frequency.stream/dist/vix/408/hls/master/playlist.m3u8"
+            },
+{
+                "name": "GOLDEN MULTIPLEX",
+                "icono": "https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2020_11/large.543972-8c.png.39b2c22efafad7ae47cef4f1f3aa440b.png",
+                "uri": "https://linear-409.frequency.stream/mt/studio/409/hls/master/playlist.m3u8"
+            },
+{
+                "name": "GOLDEN 2",
+                "icono": "https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2020_11/large.543972-8c.png.39b2c22efafad7ae47cef4f1f3aa440b.png",
+                "uri": "https://linear-406.frequency.stream/mt/studio/406/hls/master/playlist.m3u8"
+            },
+{
+                "name": "GOLDEN EDGE",
+                "icono": "https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2020_11/large.543972-8c.png.39b2c22efafad7ae47cef4f1f3aa440b.png",
+                "uri": "https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8"
+            },
             {
                 "name": "TNT HD",
                 "uri": "HYj1mQswC+Qz/gW3GNf2Z/KIvc13jEShsv8KSiABbVrX7o1HzQJKB2MWoKteCpjDGtlbhr7Ix9XK1bW4MsYZOJ9kJwGHcrCqDVu7cF8EAJg=",
@@ -1436,6 +1456,17 @@
     {
         "name": "⚽ DEPORTES ",
         "samples": [
+{
+                "name": "UFC",
+                "icono": "",
+                "uri": "https://dbrb49pjoymg4.cloudfront.net/10001/99951134/hls/master.m3u8?ads.xumo_channelId=99951134"
+            },
+{
+                "name": "WWE",
+                "icono": "",
+                "uri": "https://edge2.laotv.la/live/WWE/index.m3u8"
+            },
+
            {
                 "name": "PREMIERE",
                 "uri": "https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4zkafrcxji/out/v1/810ebca1aff0443da717da4acdeda158/cenc.mpd",
