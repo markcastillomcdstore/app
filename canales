@@ -1458,12 +1458,12 @@
         "samples": [
 {
                 "name": "UFC",
-                "icono": "",
+                
                 "uri": "https://dbrb49pjoymg4.cloudfront.net/10001/99951134/hls/master.m3u8?ads.xumo_channelId=99951134"
             },
 {
                 "name": "WWE",
-                "icono": "",
+                
                 "uri": "https://edge2.laotv.la/live/WWE/index.m3u8"
             },
 
