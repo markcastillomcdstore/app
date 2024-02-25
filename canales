@@ -1,45 +1,6 @@
 [
     
     {
-        "name": "TIGO SPORTS PROBAR TODAS LAS OPCIONES ANTES DE HACER UN RECLAMO",
-        "samples": [
-            {
-                "name": "TIGO",
-                "uri": "https://qiniu.prdv3.dlivecdn.com/dlive-nbiuqjkaax/1706398244/src/live.m3u8",
-                "icono": "https://i.ibb.co/bQxPJ4D/ead-QN2-W9-400x400.jpg"
-            },
-            {
-                "name": "TIGO",
-                "uri": "HhxVCyMJorpOqEvNi9KOEcYqgKysPK/V30EZNmqXklAu5rXNbg8O+sGErxz7HW5Lp5FCurMZLyoZ5pBcDWNvBQ==",
-                "icono": "https://i.postimg.cc/QxXn43pS/ver-tigo-sports-en-vivo.jpg"
-            },
-            {
-                "name": "TIGO",
-                "uri": "HhxVCyMJorpOqEvNi9KOEcYqgKysPK/V30EZNmqXklAu5rXNbg8O+sGErxz7HW5LAQt8JJkXQzgNSGc5si3BnN8v58iBz2fHLhRsaQcWF+U=",
-                "icono": "https://i.postimg.cc/QxXn43pS/ver-tigo-sports-en-vivo.jpg"
-            },
-            {
-                "name": "TIGO3",
-                "uri": "https://prod-ec-sa-east-1.video.pscp.tv/Transcoding/v1/hls/me_QWAzdJ4b6hMITkYcvTt7Nxw2aqMhey1bn5f_F5sT84VtTOdny8HaqRrusyqxsDOyfIGUni-Ctk2TheqD2pw/transcode/sa-east-1/periscope-replay-direct-prod-sa-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/tw_dynamic_highlatency.m3u8?type=live",
-                "icono": "https://i.postimg.cc/QxXn43pS/ver-tigo-sports-en-vivo.jpg"
-            },
-          
-            {
-                "name": "TIGO GUATEMALA",
-                "uri": "ML5vvzyMkIlkpzCkeNlcxNZtE1YSiEmPkrLQbBbSo1MYGfIig7eidR8wlt9DOrCIReZmAQk2lQ8UQVQazSgFpXOJvxnahlcbggxqbaX8Y4Q=",
-                "icono": "https://i.postimg.cc/QxXn43pS/ver-tigo-sports-en-vivo.jpg"
-            },
-
-{
-                "name": "GOLDEN",
-                "uri": "https://proxy.sintv.cl/py.php/https://1057-vos-da-mt.dtvott.com/DASH/manifest.mpd",
-                "drm_scheme": "clearkey",
-                "icono": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=7ac053ce4a6c3786a71c23c36bfed028&key=b324da5a858840ee79ba4bc1df9ffd95"
-            }
-        ]
-    },
-    {
         "name": "🎬 CINE Y SERIES",
         "samples": [
             
@@ -2897,11 +2858,9 @@
             },
 {
                 "name": "PREMIERE",
-                "uri": "https://0064-jbc.dtvott.com/dash_live_0079/manifest.mpd",
-                "drm_scheme": "clearkey",
-                "icono": "https://i.postimg.cc/JtVXTcGY/tcm.png",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=50653a20839a57c8b2d3cde6ddc46cdb&key=key8a505419dccb50ee07ecebf5a6b44c63"
-            }
+                "uri": "HhxVCyMJorpOqEvNi9KOEcYqgKysPK/V30EZNmqXklAu5rXNbg8O+sGErxz7HW5LAQt8JJkXQzgNSGc5si3BnN8v58iBz2fHLhRsaQcWF+U=",
+                "icono": "https://i.postimg.cc/JtVXTcGY/tcm.png"
+}
      ]
 }
 ]
