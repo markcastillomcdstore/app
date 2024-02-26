@@ -981,13 +981,7 @@
                 "icono": "https://i.ibb.co/G0zCDL0/descarga-1.png",
                 "drm_license_uri": "RVuLNJ1jL26XhhI5RStL+eW+Q/q4lDfccyJI4P4yqcDNvmQL01BSRJQdhMBVBQpoOfWEqCtdlw5eHkJMs4pddw=="
             },
-            {
-                "name": "CANAL 12 CORDOBA",
-                "uri": "https://chromecast.cvattv.com.ar/live/c6eds/Canal_12_CBA/SA_Live_dash_enc/Canal_12_CBA.mpd",
-                "drm_scheme": "clearkey",
-                "icono": "https://i.ibb.co/60sFBfY/og-image.jpg",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=90422640d3e846159fa450f83870ed4a&key=abb3cd94aece1a462df25a8f21085cca"
-            },
+            
             {
                 "name": "Canal 8 San Juan",
                 "uri": "ZtR5tkb3FaTyxo8A/GIxdgaX/iY1k5qfYpg0J8PDeKUyNcpppvDRZx8AIL8Uhwvk",
@@ -1022,10 +1016,10 @@
             },
             {
                 "name": "CANAL 12 CORDOBA",
-                "uri": "HYj1mQswC+Qz/gW3GNf2Z/KIvc13jEShsv8KSiABbVrGJSFSfi7OaA0c3sSGZsTEsOwx6r1YFCQm0iyAYMtaMcdaXqQwCKVlhEs7QmCr5Aja42/vFFQkIb9BJMfPnv0J",
+                "uri": "https://chromecast.cvattv.com.ar/live/c6eds/Canal_12_CBA/SA_Live_dash_enc/Canal_12_CBA.mpd",
                 "drm_scheme": "clearkey",
                 "icono": "https://i.ibb.co/60sFBfY/og-image.jpg",
-                "drm_license_uri": "RVuLNJ1jL26XhhI5RStL+QTYwmi63ATk4CgqNdsprth8Uy7b242a3eSX5hyfZ0k8aVx4XMLMR6k4BXuKwodhjbOUlWA6SdnJvLO4l3yN/YAgsj4Ak8RkobEwTtVdJeipWZT7fPBMSeEq7gg3fEM5XMwuz3/k2FI3Atk5aS01Mck="
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=90422640d3e846159fa450f83870ed4a&key=abb3cd94aece1a462df25a8f21085cca"
             },
             {
                 "name": "CANAL 10 CORDOBA",
