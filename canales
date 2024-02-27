@@ -374,7 +374,296 @@
                 "drm_scheme": "clearkey",
                 "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1200px-Htv_logo.svg.png",
                 "drm_license_uri": "1Dh0aiPKTARVnGPLLvpMuBvVe2hv5OoR7tEbdi1MCaNSJGBlHSyFMlrn7ySpa1rJ01rcNZJ8ArCpJAPLzZ0Zg1cvUZ+2R2NhODn0yQ49ysR/H0QaWXNoYdXOYp1mTFeSjbuncU4qZwIlQwCjxTBENRlOchMxQUHn72urtOCxFSjAAUrvrxJcyUzAbBoDirq5x9kEIqhItGlI7Ex84pv5zg=="
-            }
+            },
+{
+        "name": "CONCERT CHANNEL",
+        "uri": "https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(CONCERT_CHANNEL_HD)/index.m3u8",
+        "icono": "https://i.ibb.co/5Btjrt1/concertch.png"
+      },
+      {
+        "name": "QUIERO TV",
+        "uri": "https://edge-mix02-mun.cvattv.com.ar/live/c6eds/Quiero_HD/SA_Live_dash_enc/Quiero_HD.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=a354b0c82a3a720c4a6f52ed5a1190f4&key=45a76dcc84f058cfabc8b958d7303b28",
+        "icono": "https://i.ibb.co/4mXYMzX/quiero.png"
+      },
+      {
+        "name": "HTV",
+        "uri": "https://edge-mix02-mun.cvattv.com.ar/live/c6eds/HTV/SA_Live_dash_enc/HTV.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=daecef5fe32f4ce083c6a0c692755d6a&key=d4227f24389a9ba77293214b93eb0d7d",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1200px-Htv_logo.svg.png"
+      },
+      {
+        "name": "MUSIC TOP",
+        "uri": "https://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8",
+        "icono": "https://i.ibb.co/rfDTXwt/music-top.png"
+      },
+      {
+        "name": "MTV",
+        "uri": "https://edge-mix02-mun.cvattv.com.ar/live/c6eds/MTV_HD/SA_Live_dash_enc/MTV_HD.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0c9eb3ead38a122ac460ad96a8ebfd2e&key=66bfbfa4449eb8bc1bcf7577d5bffaad",
+        "icono": "https://i.ibb.co/HqPNtN1/mtv.png"
+      },
+      {
+        "name": "MTV HITS",
+        "uri": "http://webtvstream.bhtelecom.ba/hls7/mtv_hits.mpd?n=fIywBW0QQGm8IF3FrBnHh1:APA91bFQ2Ae7cZNm0rV3cd_fiV4OmX4dObMJbHr7ntUl0K33d0PIu4D4xuZ0CY3nzqLY6WHY12g6Sy4g1n-x9CTLjkHSffmyDI9IkR6Pt0k-wvwpa6dEaOx3K3Lb7L49M8wamqlwgi-v",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=c18b6aa739be4c0b774605fcfb5d6b68&key=e41c3a6f7532b2e3a828d9580124c89d",
+        "icono": "https://i.ibb.co/RB2c6Xx/245px-MTV-Hits-2017-logo-svg.png"
+      },
+      {
+        "name": "MTV CLUB",
+        "uri": "http://webtvstream.bhtelecom.ba/hls19/club_mtv.mpd?n=fIywBW0QQGm8IF3FrBnHh1:APA91bFQ2Ae7cZNm0rV3cd_fiV4OmX4dObMJbHr7ntUl0K33d0PIu4D4xuZ0CY3nzqLY6WHY12g6Sy4g1n-x9CTLjkHSffmyDI9IkR6Pt0k-wvwpa6dEaOx3K3Lb7L49M8wamqlwgi-v",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=c18b6aa739be4c0b774605fcfb5d6b68&key=e41c3a6f7532b2e3a828d9580124c89d",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Club_MTV_2021_logo.svg/505px-Club_MTV_2021_logo.svg.png"
+      },
+      {
+        "name": "MTV 80s",
+        "uri": "http://webtvstream.bhtelecom.ba/hls18/mtv_80s.mpd?n=fIywBW0QQGm8IF3FrBnHh1:APA91bFQ2Ae7cZNm0rV3cd_fiV4OmX4dObMJbHr7ntUl0K33d0PIu4D4xuZ0CY3nzqLY6WHY12g6Sy4g1n-x9CTLjkHSffmyDI9IkR6Pt0k-wvwpa6dEaOx3K3Lb7L49M8wamqlwgi-v",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=c18b6aa739be4c0b774605fcfb5d6b68&key=e41c3a6f7532b2e3a828d9580124c89d",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/5/5e/MTV_80s_%282020%29.png"
+      },
+      {
+        "name": "MTV 90s",
+        "uri": "http://webtvstream.bhtelecom.ba/hls16/mtv_90s.mpd?n=fIywBW0QQGm8IF3FrBnHh1:APA91bFQ2Ae7cZNm0rV3cd_fiV4OmX4dObMJbHr7ntUl0K33d0PIu4D4xuZ0CY3nzqLY6WHY12g6Sy4g1n-x9CTLjkHSffmyDI9IkR6Pt0k-wvwpa6dEaOx3K3Lb7L49M8wamqlwgi-v",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=c18b6aa739be4c0b774605fcfb5d6b68&key=e41c3a6f7532b2e3a828d9580124c89d",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/MTV_90s_2022.svg/681px-MTV_90s_2022.svg.png"
+      },
+      {
+        "name": "MTV 00s",
+        "uri": "https://edge-mix02-mun.cvattv.com.ar/live/c7eds/MTV00/SA_Live_dash_enc/MTV00.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=1f0c09ed9e5841cf867ba6eb3cdfd61d&key=802c89c6bae6a245aaafcf40c1986fc1",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png"
+      },
+      {
+        "name": "MTV CLASSIC US",
+        "uri": "https://archive.org/download/3_20231204_20231204_1810/mtv-classics.m3u8",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/MTV_Classic_2017_logo.svg/783px-MTV_Classic_2017_logo.svg.png"
+      },
+      {
+        "name": "MTV LIVE",
+        "uri": "https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(MTV_LIVE_HD)/index.m3u8",
+        "icono": "https://i.ibb.co/PtwhNh7/mtvlive.png"
+      },
+      {
+        "name": "VORTERIX",
+        "uri": "https://edge-mix02-mun.cvattv.com.ar/live/c6eds/Vorterix/SA_Live_dash_enc/Vorterix.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=eabe2c22350c26c7f0ad84b34932f08d&key=39fa06836ec0f81d8dd9b6e01a3070e3",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Vorterix.jpg"
+      },
+      {
+        "name": "CANAL DE MUSICA",
+        "uri": "https://edge-mix02-mun.cvattv.com.ar/live/c6eds/CM/SA_Live_dash_enc/CM.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=682f36b5736f4560951ca14b80d29524&key=3accb729067a39b3b8143f1b447b9d25",
+        "icono": "https://1.bp.blogspot.com/-_tE8VO8HMnA/X0_XRjluTAI/AAAAAAAA6Ts/-pyWu9d-VyAKrBlIG1S84e2hVSWEfoHagCLcBGAsYHQ/s0/cm-elcanaldelamusica.png"
+      },
+      {
+        "name": "MUCH MUSIC",
+        "uri": "https://edge-mix02-mun.cvattv.com.ar/live/c6eds/Much_Music/SA_Live_dash_enc/Much_Music.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=1cb0558f9ddd4820bc9982ce483e5888&key=c2845f4c554fcaf96a13da4a373868c4",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/MuchMusicLA_%282007%29.svg/240px-MuchMusicLA_%282007%29.svg.png"
+      },
+      {
+        "name": "ALLEGRO",
+        "uri": "https://edge-mix02-mun.cvattv.com.ar/live/c7eds/AllegroHD/SA_Live_dash_enc/AllegroHD.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e55e61b81b992d6c21466891d72157e9&key=566d341bf7209a88976e75c20ad7aca2",
+        "icono": "https://i.ibb.co/ts85rN6/allegro.png"
+      },
+      {
+        "name": "VIVALDI TV",
+        "uri": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01297-themahqfranceme-vivalditv-samsungspain/playlist.m3u8",
+        "icono": "https://www.thematv.com/images/channels/vivaldi.png"
+      },
+      {
+        "name": "STINGRAY CLASSICA",
+        "uri": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray/classica-cla008-montreal/distrotv/master.m3u8",
+        "icono": "https://i.ibb.co/nCkKKQ5/stingray-classica.jpg"
+      },
+      {
+        "name": "VEVO 2K",
+        "uri": "https://d2yhuqxy1ky6ij.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bel4aqksrgol2-ssai-prd/playlist.m3u8",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Vevo_2016_logo.png/320px-Vevo_2016_logo.png"
+      },
+      {
+        "name": "VEVO POP",
+        "uri": "https://dbrb49pjoymg4.cloudfront.net/10001/99991391/hls/playlist.m3u8?ads.xumo_channelId=99991391",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Vevo_2016_logo.png/320px-Vevo_2016_logo.png"
+      },
+      {
+        "name": "VEVO POP LATINO",
+        "uri": "https://d3t95pdz2h4c90.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3yjwupt2bfu30/playlist.m3u8",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Vevo_2016_logo.png/320px-Vevo_2016_logo.png"
+      },
+      {
+        "name": "VEVO LATINO",
+        "uri": "https://d1jg19cd16tz4s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-nx7h5jeuhw79b-ssai-prd/playlist.m3u8",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Vevo_2016_logo.png/320px-Vevo_2016_logo.png"
+      },
+      {
+        "name": "TOP LATINO TV",
+        "uri": "https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/playlist.m3u8",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/3/3d/LOGO_TOP_LATINO_PNG_2017_-_500px.png"
+      },
+      {
+        "name": "TELERITMO",
+        "uri": "http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8",
+        "icono": "https://i.ibb.co/ySxjmnL/teleritmo.png"
+      },
+      {
+        "name": "TELEHIT",
+        "uri": "https://linear-417.frequency.stream/mt/studio/417/hls/master/playlist.m3u8",
+        "icono": "https://i.ibb.co/5Y4C401/telehit.png"
+      },
+      {
+        "name": "TELEHIT MÚSICA",
+        "uri": "https://linear-418.frequency.stream/mt/studio/418/hls/master/playlist.m3u8",
+        "icono": "https://i.ibb.co/p4243Nf/Telehit-M-sica.png"
+      },
+      {
+        "name": "TELEHIT MÚSICA PLUS",
+        "uri": "https://linear-419.frequency.stream/mt/studio/419/hls/master/playlist.m3u8",
+        "icono": "https://i.ibb.co/hg3bxH0/do-download.png"
+      },
+      {
+        "name": "BANDAMAX",
+        "uri": "https://archive.org/download/3_20231204_20231204_1810/bandama.m3u8",
+        "icono": "https://i.ibb.co/0D7TMmZ/Bandamax.png"
+      },
+      {
+        "name": "MMC",
+        "uri": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-mmc-distro/playlist.m3u8",
+        "icono": "https://i.ibb.co/j6PX0j9/freetv-banda-1080x1080-02092024.jpg"
+      },
+       {
+        "name": "FLASH ",
+        "uri": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-flash-distro/playlist.m3u8",
+        "icono": "https://i.ibb.co/nzMrH36/freetv-hits-1080x1080-02092024.jpg"
+      },
+      {
+        "name": "FLOU CARIBEÑO",
+        "uri": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01365-spanglishmovies-floucaribedistro-distrotv/playlist.m3u8",
+        "icono": "https://i.ibb.co/j5pLJYG/flou-caribe-o.png"
+      },
+       {
+        "name": "LA BOCINA LATINA",
+        "uri": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/la-bocina-latina/master.m3u8",
+        "icono": "https://i.ibb.co/KW7fckh/la-bocina-latina.png"
+      },
+      {
+        "name": "MI GENTE 3.0",
+        "uri": "https://byecableiptvnew3.ddns.net:443/ENVIVOMIGENTE/index.m3u8",
+        "icono": "https://i.ibb.co/QMJ9YNS/mi-gente-3-0.png"
+      },
+      {
+        "name": "TOP TV",
+        "uri": "https://isaocorp.cloudecast.com/toptv/tracks-v1a1/mono.m3u8",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Top_TV_logo.svg/768px-Top_TV_logo.svg.png"
+      },
+       {
+        "name": "TRACE LATINA",
+        "uri": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-latina/encrypted.m3u8",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/TRACE_Latina_Logo.png/1024px-TRACE_Latina_Logo.png"
+      },
+       {
+        "name": "TRACE BRASIL",
+        "uri": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-brazuca/encrypted.m3u8",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Trace_Brasil_logo.PNG"
+      },
+       {
+        "name": "TRACE URBAN",
+        "uri": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-urban/encrypted.m3u8",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Trace_Urban_logo_2010.svg/1024px-Trace_Urban_logo_2010.svg.png"
+      },
+      {
+        "name": "VEVO ´70s",
+        "uri": "https://d9a7gn34udfwh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x1td8h8f4kkdh/playlist.m3u8",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Vevo_2016_logo.png/320px-Vevo_2016_logo.png"
+      },
+      {
+        "name": "VEVO ´80s",
+        "uri": "https://d36tolctzl3cf9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ooxwuk06xi7af/playlist.m3u8",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Vevo_2016_logo.png/320px-Vevo_2016_logo.png"
+      },
+      {
+        "name": "VEVO ´90s",
+        "uri": "https://d36vl7sxn34m5q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m63zgwps7b87g/playlist.m3u8",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Vevo_2016_logo.png/320px-Vevo_2016_logo.png"
+      },
+      {
+        "name": "XITE 80s FLASHBACK",
+        "uri": "https://dw0oa71jud5ry.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/usbb320000647-prod/amg80rewind/playlist.m3u8",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Xite_Logo_New.jpg/240px-Xite_Logo_New.jpg"
+      },
+      {
+        "name": "XITE 90s THROWBACK",
+        "uri": "https://d3fr64zqebnqn3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/usbb3200007ak-prod/amg90rock/playlist.m3u8",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Xite_Logo_New.jpg/240px-Xite_Logo_New.jpg"
+      },
+      {
+        "name": "XITE ROCK ON",
+        "uri": "https://dri82941jql2y.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/RockMetal-prod/playlist.m3u8",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Xite_Logo_New.jpg/240px-Xite_Logo_New.jpg"
+      },
+      {
+        "name": "NOW 70s",
+        "uri": "https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/NOW_70s.png/230px-NOW_70s.png"
+      },
+      {
+        "name": "NOW 80s",
+        "uri": "https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8",
+        "icono": "https://upload.wikimedia.org/wikipedia/en/0/0d/NOW_80s_logo.png"
+      },
+      {
+        "name": "NOW ROCK",
+        "uri": "https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8",
+        "icono": "https://upload.wikimedia.org/wikipedia/en/8/89/NOW_Rock_logo.png"
+      },
+      {
+        "name": "MTV ROCKZONE",
+        "uri": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6245cdb15d931000073ee4ff/master.m3u8?deviceType=0&deviceMake=0&deviceModel=0&deviceVersion=0&appVersion=0&deviceDNT=0",
+        "icono": "https://i.ibb.co/1vkNfcg/mtv-rockzone.png"
+      },
+      {
+        "name": "VEVO RETRO ROCK",
+        "uri": "https://d1uttzwuh34h7x.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5wuvgw5l0sw7j/playlist.m3u8",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Vevo_2016_logo.png/320px-Vevo_2016_logo.png"
+      },
+      {
+        "name": "RETRO MUSIC TELEVISION",
+        "uri": "http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Retro_Music_TV_logo.png"
+      },
+      {
+        "name": "RETRO  PLUS  SEÑAL  1",
+        "uri": "https://video06.logicahost.com.br/retroplustv/retroplustv/playlist.m3u8",
+        "icono": "https://image.roku.com/developer_channels/prod/407b41e3649e464cd4a478c2858e6e2e1b3b85536634ab2188f23eb5402fe438.png"
+      },
+      {
+        "name": "RETRO  PLUS  SEÑAL  2",
+        "uri": "https://video06.logicahost.com.br/retroplussenal2/retroplussenal2/playlist.m3u8",
+        "icono": "https://image.roku.com/developer_channels/prod/407b41e3649e464cd4a478c2858e6e2e1b3b85536634ab2188f23eb5402fe438.png"
+      },
+      {
+        "name": "STINGRAY DJAZZ",
+        "uri": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray/djazz-djaads-montreal/distrotv/master.m3u8",
+        "icono": "https://i.ibb.co/g6FnxXk/Stingray-Djazz.png"
+      },
+      {
+        "name": "QELLO CONCERTS BY STINGRAY ",
+        "uri": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray/qello-qello001-montreal/distrotv/master.m3u8",
+        "icono": "https://i.ibb.co/LQ4BkD1/Qello-Stingray.png"
+      }
         ]
     },
     {
