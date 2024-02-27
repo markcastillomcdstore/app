@@ -886,6 +886,81 @@
             }
         ]
     },
+ {
+    "name": "🎬 PACK PREMIUM UNIVERSAL+",
+    "samples": [
+      {
+        "name": "UNIVERSAL CINEMA",
+        "uri": "http://cdn.cvattv.com.ar/live/c6eds/Universal_Cinema/SA_Live_dash_cenc/Universal_Cinema.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=f6ae2e17173055e4ca69dc18963406ae&key=5a955c29eb88a0b4c9a2538cc4b3aea2",
+        "icono": "https://i.ibb.co/7R9vphx/unicinema.png"
+      },
+      {
+        "name": "UNIVERSAL CINEMA OP2",
+        "uri": "http://mtd.llc/chIdx/uncinema.mpd?xauthorization=Y8CzxDZTbgLt634O9IsFSw==",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=2aca01f156ca29808721bba6cbbf9572&key=c23c8c863f5dd1f93d39c5aad041ef65",
+        "icono": "https://i.ibb.co/7R9vphx/unicinema.png"
+      },
+      {
+        "name": "UNIVERSAL COMEDY",
+        "uri": "https://edge-mix02-mun.cvattv.com.ar/live/c6eds/Universal_Comedy/SA_Live_dash_enc/Universal_Comedy.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=062c5d25105a3a935b67e36923c73f28&key=88c2d4cec420f18d2477152c66c7870d",
+        "icono": "https://i.ibb.co/YLq4CZk/unicomedy.png"
+      },
+      {
+        "name": "UNIVERSAL COMEDY OP2",
+        "uri": "http://mtd.llc/chIdx/uncomedy.mpd?xauthorization=Y8CzxDZTbgLt634O9IsFSw==",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=842e79ebec9fd9dd2b4c95b85d327b0c&key=7853f5eadf1a317cfd3c87346539fedf",
+        "icono": "https://i.ibb.co/YLq4CZk/unicomedy.png"
+      },
+      {
+        "name": "UNIVERSAL CRIME",
+        "uri": "https://edge-mix02-mun.cvattv.com.ar/live/c6eds/universal_Crime/SA_Live_dash_enc/universal_Crime.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=1efd7edf60e1514f775dd13d046ae708&key=c2ef1abbd945c62c11b1375eaaa50f0d",
+        "icono": "https://i.ibb.co/Pj1z13N/unicrime.png"
+      },
+      {
+        "name": "UNIVERSAL CRIME OP2",
+        "uri": "http://mtd.llc/chIdx/uncrime.mpd?xauthorization=Y8CzxDZTbgLt634O9IsFSw==",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=93b5dc737cbf4f14f77cdfb4e2bc51f1&key=d68aaf6527c6c334c6bc5a97c3d6b2e6",
+        "icono": "https://i.ibb.co/Pj1z13N/unicrime.png"
+      },
+      {
+        "name": "UNIVERSAL PREMIERE",
+        "uri": "https://edge-mix02-mun.cvattv.com.ar/live/c6eds/Universal_Premiere/SA_Live_dash_enc/Universal_Premiere.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0eb20b51ad13b58ad417f11318e588b3&key=ad5d29a33d73d21187157802de8e6097",
+        "icono": "https://i.ibb.co/TLfZbYS/unipremiere.png"
+      },
+      {
+        "name": "UNIVERSAL PREMIERE OP2",
+        "uri": "http://mtd.llc/chIdx/unpremiere.mpd?xauthorization=Y8CzxDZTbgLt634O9IsFSw==",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=1eca58b631c90b40b6ef6fa60805e402&key=1f582c26325ee4dc7d45d67c9a73d61b",
+        "icono": "https://i.ibb.co/TLfZbYS/unipremiere.png"
+      },
+      {
+        "name": "UNIVERSAL REALITY",
+        "uri": "https://edge-mix02-mun.cvattv.com.ar/live/c6eds/Universal_Reality/SA_Live_dash_enc/Universal_Reality.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=cedd9c1a5c2ae43f80ee3197212016d6&key=bf47a3c39e164a97ea6adc4c8dd57435",
+        "icono": "https://i.ibb.co/Zz9MB5Y/unireality.png"
+      },
+      {
+        "name": "UNIVERSAL REALITY OP2",
+        "uri": "http://mtd.llc/chIdx/unreality.mpd?xauthorization=Y8CzxDZTbgLt634O9IsFSw==",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=84756c45c0a47b2a3824ab6216e11854&key=0d663545a6c7ee1c2b45d21111956eb6",
+        "icono": "https://i.ibb.co/Zz9MB5Y/unireality.png"
+      }
+    ]
+  },
     {
         "name": "UNIVERSAL CANALES",
         "samples": [
