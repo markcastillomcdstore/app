@@ -8,6 +8,13 @@
 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=1061be12d303247426ec25e8369b2647&key=bd622b0e610295de3b0bccb850ccaaaa",
                 "uri": "https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/cqbcvgkb83/out/v1/4dbe05ecfb1540448d82d68eeebfbb1c/cenc.mpd",
                 "icono": "https://brandemia.org/contenido/subidas/2017/11/cabecera_formula1-960x640.jpg"
+            },
+{
+                "name": "F1",
+"drm_scheme": "widevine",
+"drm_license_uri": "https://mrpw.milcom.vcas.na1.verimatrixcloud.net:8063/?deviceId=MzhjYTc0ZTktNmE5Mi0zMWZhLWJlODAtNzZmY2ZiM2M1MDhm",
+                "uri": "https://sam-py-edge01.tigo.com.py/ccur-session/01_3607681582/VMX4_widevine/rolling-buffer/TigoSportsHD/TigoSportsHD/transmux/CCURStream_audio_TigoSportsHD1-10.m3u8?ccur_st=0&ccur_et=0&ccur_fmt_type=fmp4",
+                "icono": "https://brandemia.org/contenido/subidas/2017/11/cabecera_formula1-960x640.jpg"
             }
         ]
     },
