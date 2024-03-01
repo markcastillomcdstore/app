@@ -1900,8 +1900,9 @@
             },
 {
                 "name": "DIRECTV SPORTS PLUS",
-                "uri": "https://gtechtecnologia.com/telelatino/play/22.m3u8",
-                
+                "uri": "http://gtechtecnologia.com/dtv/444952454354562053504f52545320504c5553.mpd",
+                "drm_scheme": "clearkey",
+"drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=f19c3a8c638d52c2ab77b9566bcb2996&key=7400a9f905f172d5d74d7dc440724c8e",
                 "icono": "https://static.wikia.nocookie.net/logopedia/images/9/9e/DirecTV_Plus_2005_logo.png/revision/latest?cb=20201023183946&path-prefix=es"
                
             }
