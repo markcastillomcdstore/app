@@ -231,6 +231,13 @@
                 "drm_scheme": "clearkey",
                 "icono": "https://i.postimg.cc/Xvy5crqh/ver-atrescine-a3-cine-en-vivo.jpg",
                 "drm_license_uri": "1Dh0aiPKTARVnGPLLvpMuBvVe2hv5OoR7tEbdi1MCaNSJGBlHSyFMlrn7ySpa1rJ01rcNZJ8ArCpJAPLzZ0Zg95I3+B3zxc1jqhrkSaCwMKLINVigao4mX4y7fZSbjWyjjsxj9o7AVU4QGOo939Op2LDP9M6GNZUOkh3H9K+xk3VIY/ulGbqA37qqPEJ9244sFLRUJ8ZTQUeZBjtaBjDHg=="
+            },
+{
+                "name": "TEST",
+                "uri": "https://gtechtecnologia.com/dtv/4c612031204844202820657370616e612029.mpd",
+                "drm_scheme": "clearkey",
+                "icono": "https://i.postimg.cc/Xvy5crqh/ver-atrescine-a3-cine-en-vivo.jpg",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=14fc0e3b249a43faa52fc69279e77cab&key=71c987df089eda046faf592931e84a5c"
             }
         ]
     },
