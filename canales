@@ -6141,23 +6141,11 @@
       },
 {
                 "name": "F1",
-"drm_scheme": "clearkey",
-"drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=b52a7fa91fb031a3d6f2a505414b6fcd&key=a655a22f9c0a66574b5d95dee212fbf9",
+"drm_scheme": "widevine",
+"drm_license_uri": "https://mrpw.milcom.vcas.na1.verimatrixcloud.net:8063/?deviceId=N2RjOGFjY2UtOWMyMy0zMmIxLTg5MGEtM2MzNDY5NzBhN2E4",
                 "uri": "https://pylocalmillicom.lcdn.une.net.co/VMX4_widevine/rolling-buffer/TigoSportsHD/TigoSportsHD/transmux/index.mpd",
                 "icono": "https://pylocalmillicom.lcdn.une.net.co/VMX4_widevine/rolling-buffer/TigoSportsHD/TigoSportsHD/transmux/index.mpd"
             }
     ]
-  },
-{
-        "name": "FORMULA 1",
-        "samples": [
-            {
-                "name": "F1",
-"drm_scheme": "clearkey",
-"drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=1061be12d303247426ec25e8369b2647&key=bd622b0e610295de3b0bccb850ccaaaa",
-                "uri": "https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/cqbcvgkb83/out/v1/4dbe05ecfb1540448d82d68eeebfbb1c/cenc.mpd",
-                "icono": "https://brandemia.org/contenido/subidas/2017/11/cabecera_formula1-960x640.jpg"
-            }
-        ]
-    }
+  }
 ]
