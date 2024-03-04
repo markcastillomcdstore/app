@@ -1925,69 +1925,56 @@
                 "icono": "https://i.postimg.cc/02BdYRZz/ver-espn-premium-en-vivo.jpg",
                 "drm_license_uri": "1Dh0aiPKTARVnGPLLvpMuBvVe2hv5OoR7tEbdi1MCaNSJGBlHSyFMlrn7ySpa1rJ01rcNZJ8ArCpJAPLzZ0ZgwWFAdnrobmg9H8Jf2U9Ju2milqk4sjBRfLrsqgH2bw3o2uHNyDZU0ZOObwThLqzdtIzQhoW+njZCD9yc0DplBijU21kOUelkK+GyLeboRIFFzlMB9ImdwWRKsGHpYv/+A=="
             },
-             {
-        "name": "PREMIERE",
-        "uri": "ZkhoVE5SV3Z3dldqREI2UkQ5RExhWlpxdzlrOXNibEhFNThZa0lRRGdqTWI0S0VSczRzZE93K1FIL3JLK0NTakJGMytUWHVMdGh2cE84ZXNTZEdGQUVVOTdRRnpYaG5RZzUzZXFZWTRFd0E0dWRBQzFYd3c2NjFmSzd3aWdIU2tPRURzSlpFRThPaitvcDNDWmFjYWRhU2NHSmY3VzRodzBYS1UzS3pMWTRrPQ==",
-        "drm_scheme": "clearkey",
-        "icono": "https://play-lh.googleusercontent.com/2C7U8VNAaVnCJjxcs1VjQXOUwAekGk7FXFfM5cdx6EP4BpiRbrRzJxWXwteHxauntgQ",
-        "drm_license_uri": "VEJybWMweTMxQzNaKzdjQUFlZ0d2ZXRVZmRrZVdIZTM0SVBlYmEySUlmbEo1eHEvVFNrRjBSNy9rRElKNE9nOFBkSk1rYlN1Y200djZ4aEFDK0pvLzNWWGhOT0N0SUd0dWEyUGlFRXdPUkp5Q2hlYnhEN0VTVmdJd05pWE43ZXBSaVZTOUlvclh4NE9UbVVmRHpndUErYlUrSm1xWi9MV0NBc25JV3AyMUlnZGlCa1NVb0RCYXc3UFJOVjM3YytxYmd6eFpDNnVaU2Z5andqd2h3VXRQUT09"
-      },
+            
       {
-        "name": "CLARO SPORTS",
-        "uri": "cjVwSUVnUldZSGRvdEd4U2lpTUU5RzM5T0YxSmdBZmU4ZEdJY1ZjN1k2Si9rcWVHbEI2UFExQjRQZWtkSlFpN3h5eGFQZnFGeTJDQ1R1UGpHT0FqK09PY005Q2dab1lhRXJGamVqbnJvQlU9",
-        "drm_scheme": "clearkey",
-        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPM0MfQFLerjbpsd-XhtVqZV0A35beGC9f4aaLINzWoA&s",
-        "drm_license_uri": "VEJybWMweTMxQzNaKzdjQUFlZ0d2ZXRVZmRrZVdIZTM0SVBlYmEySUlmbEo1eHEvVFNrRjBSNy9rRElKNE9nOFBkSk1rYlN1Y200djZ4aEFDK0pvL3lGSmFuaWZhVVJkb2prL3pwU3pwTytzSVppSjFTV2FvcGdXdzNTUHVlN2Q5OFhPeTBEN3VLdGVNYW1pRXROT3hMMFZHUXBXOFc3U28rTy9OdGJKbGFpbEo5NXoxWG9BK28wVzZleCt2MUJCRkttMEd6eHN2Z1lQekJOb0kyTzRDZz09"
-      },
-      {
-        "name": "ESPN",
-        "uri": "UFFrcFBnNTB2N2JvQytSd1NlNjhmbFpKTE00Z09INk1heXVwZGJ0U25vUTk4d2FzeFVxdXppVHRBNUx2bStnVklKU0ZLeGUwbWRhVzJrayt6bDVsNjJaV1JMYXp1ZjRjUUZYUEhzZStIb009",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "VEJybWMweTMxQzNaKzdjQUFlZ0d2ZXRVZmRrZVdIZTM0SVBlYmEySUlmbEo1eHEvVFNrRjBSNy9rRElKNE9nOFBkSk1rYlN1Y200djZ4aEFDK0pvLzNkTTNPc2dFRUptdDVOQ1JZalV0Y0dTVXFySm1CTFRwc1BGTkpLMVJNRmwwdWZreTRCRUtkSXlQUWtsQ3h5eEh5OWVSamZJSTlUYUJMcmR1N0VxamdBNVlZVG1BNzJkb1lKSUpwbHlRSUF2cW4rVmExcjdPZzFpSW9CbTlid2ZIUT09",
-        "icono": "https://static.flow.com.ar/images/8458/CH_LOGO/60/40/0/0/71306601073528.png"
-      },
-      {
-        "name": "ESPN 2",
-        "uri": "UmEvaXU3M3RoUnNtVGNNU3JrMWxvLzROWjRjQ3VNOWQ3U3NzcFQzamZBd2g1OHBiRW1pRTBTNk9MQURiU0phdkV5MGIzNW1HajJQUE9rMmVvd3lsRWRrTTJVWXAvak9pWi9VdGQ5bG1iTm83WkFsQU5Bd1JoN2lnUVlCc1NPQjM=",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "VEJybWMweTMxQzNaKzdjQUFlZ0d2ZXRVZmRrZVdIZTM0SVBlYmEySUlmbEo1eHEvVFNrRjBSNy9rRElKNE9nOFBkSk1rYlN1Y200djZ4aEFDK0pvLzhLZTU5dWR0SkZJZ21mdzRzQ0ZTNy9UZmRldTVYTmg2RjhkNnNqQTV2QThIMm5hN051VldIMEMrNDBiM2FUdkd5bXpGeVcvN24wY0dYRmFvVlh4SkYvaThBWEZiSE1FWFZieUI2dXJDRHFEY2Q0WStCU0FoWU9McFdmTUE1eVljdz09",
-        "icono": "https://static.flow.com.ar/images/8457/CH_LOGO/60/40/0/0/29410352075256.png"
-      },
-      {
-        "name": "ESPN 3",
-        "uri": "UmEvaXU3M3RoUnNtVGNNU3JrMWxvLzROWjRjQ3VNOWQ3U3NzcFQzamZBenlIdnBKcTlzUGl1Rlk2UG13RE1IZnF4ODFkRDgyRm43ZU1tUTY2RUJ5QkxMR2ZBYjBPZVl3aGluSHBjQ0ovWGs9",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "VEJybWMweTMxQzNaKzdjQUFlZ0d2ZXRVZmRrZVdIZTM0SVBlYmEySUlmbEo1eHEvVFNrRjBSNy9rRElKNE9nOFBkSk1rYlN1Y200djZ4aEFDK0pvLzEreG1JeElXcHM0WWl6YlBHQ3RsSVhUVnI0Y2V2RVo5TmMxcElqWSsxYXZUVVlTaUR0YmNjYk42bGVnL2l4MjFlWFRPanN2U1QzTjJlRXBhd05icVhWYkRXVGVCUWh5c0c3aDBMcUNQUjRQNGROa1VLTlRuVXVKczJEajZ6NzM2dz09",
-        "icono": "https://static.flow.com.ar/images/8817/CH_LOGO/60/40/0/0/29145259072020.png"
-      },
-      {
-        "name": "ESPN 4",
-        "uri": "UmEvaXU3M3RoUnNtVGNNU3JrMWxvLzROWjRjQ3VNOWQ3U3NzcFQzamZBenlIdnBKcTlzUGl1Rlk2UG13RE1IZlowSkNFNzhrVGVJckQzdmJKRE1wR1RzY1piZDFUQlU0ZFJuci9YQ3pSWjA9",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "VEJybWMweTMxQzNaKzdjQUFlZ0d2ZXRVZmRrZVdIZTM0SVBlYmEySUlmbEo1eHEvVFNrRjBSNy9rRElKNE9nOFBkSk1rYlN1Y200djZ4aEFDK0pvLzZ3Q1Foc25qTFBVZ0F5QzRUZ0dwVk95eEJXcDB4YmNBRkpoTTY2Y3R1N1gxTk9wSENrU3VDb0NqWmdvY1BqWkpxSnhQQVljdUQzQzZFNnF3YmQ4RW81dldWY1FNVEErYUNWWStuL082clEzNDdraFRrZGNUSnR3bFllckhVNjdCUT09",
-        "icono": "https://static.flow.com.ar/images/279/CH_LOGO/60/40/0/0/43362732071132.png"
-      },
-      {
-        "name": "ESPN 5",
-        "uri": "UmEvaXU3M3RoUnNtVGNNU3JrMWxvLzROWjRjQ3VNOWQ3U3NzcFQzamZBejVpelk1cVZ1MTNJSUorVnFDaWI3WmMxQ0tremZKN0JFa2hmZUJrZllMQ1ArZEQxY1p1N2p4clJLYTN6YTJ3clE9",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "VEJybWMweTMxQzNaKzdjQUFlZ0d2ZXRVZmRrZVdIZTM0SVBlYmEySUlmbEo1eHEvVFNrRjBSNy9rRElKNE9nOFBkSk1rYlN1Y200djZ4aEFDK0pvLzFaeFFLVzd0aU14ajhQM3FYTVVPZ0orR3ZqQ3lBTk1yMHBOL0hKcGk1VkNDQW5hMTV6VUtvNklRaE9hd2d1RjhaS203Wms1QnlNUjZNa2UzUCtROHY4VERTZ3Fqd2VOdmFRYTBnbkcrUVlrNFNIdlZlRERncmdRajhZNmtQRjUrQT09",
-        "icono": "https://static.flow.com.ar/images/8897/CH_LOGO/60/40/0/0/5522598607348.png"
-      },
-      {
-        "name": "ESPN 6",
-        "uri": "UmEvaXU3M3RoUnNtVGNNU3JrMWxvLzROWjRjQ3VNOWQ3U3NzcFQzamZBemhLWDlhZ0ZKY2dJcXhDUjZpemVhVzZwRUJwWVEzVDY3RUdZVGl0SjB2OGJyWXBOcyttVk0wdVp2ZXBVanp6eHhxRUVoeXRiTWx2UkJ5WklTREZpOUQ=",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "VEJybWMweTMxQzNaKzdjQUFlZ0d2ZXRVZmRrZVdIZTM0SVBlYmEySUlmbEo1eHEvVFNrRjBSNy9rRElKNE9nOFBkSk1rYlN1Y200djZ4aEFDK0pvLzNNR2JmS0dSRTE2QU1OcWtScU1NSUxpMXhlUkJjTW91dTBvYWVkTVJrb1p5Q01VNTV5SWR2MmFMR1d6eVhJdzhFd1l5ODRUS3BZUEhqbVZMOG9DWDNMejR6ZGo4Uk16QWhwMlorMTdtZ1ZtVk9wNFJiZTJRSEh0dWtzc1RqeC9mUT09",
-        "icono": "https://static.flow.com.ar/images/9019/CH_LOGO/60/40/0/0/15905984073899.png"
-      },
-      {
-        "name": "ESPN 7",
-        "uri": "UmEvaXU3M3RoUnNtVGNNU3JrMWxvLzROWjRjQ3VNOWQ3U3NzcFQzamZBemhLWDlhZ0ZKY2dJcXhDUjZpemVhV3JtU1FpNDY2TXNKUnVrWkk4Z3NWRVREb29xZGtPb1dJSytYNHhxZ2tzWHBxZDd6dTZJcXluY3hidHFHSXlHMHc=",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "VEJybWMweTMxQzNaKzdjQUFlZ0d2ZXRVZmRrZVdIZTM0SVBlYmEySUlmbEo1eHEvVFNrRjBSNy9rRElKNE9nOFBkSk1rYlN1Y200djZ4aEFDK0pvLzNNR2JmS0dSRTE2QU1OcWtScU1NSUxpMXhlUkJjTW91dTBvYWVkTVJrb1p5Q01VNTV5SWR2MmFMR1d6eVhJdzhFd1l5ODRUS3BZUEhqbVZMOG9DWDNMejR6ZGo4Uk16QWhwMlorMTdtZ1ZtVk9wNFJiZTJRSEh0dWtzc1RqeC9mUT09",
-        "icono": "https://static.flow.com.ar/images/9017/CH_LOGO/60/40/0/0/12041360073463.png"
-      },
+                "name": "ESPN",
+                "uri": "http://cdn.cvattv.com.ar/live/c4eds/ESPN2_PY/SA_Live_dash_enc/ESPN2_PY.mpd",
+                "drm_scheme": "clearkey",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0aab4bd18144c7316c35c74ccce96ddc&key=3e6db98d9df4747108bd896cba0be57d",
+                "icono": "https://static.flow.com.ar/images/8458/CH_LOGO/60/40/0/0/71306601073528.png"
+            },
+            {
+                "name": "ESPN 2",
+                "uri": "https://chromecast.cvattv.com.ar/live/c4eds/ESPN_PY/SA_Live_dash_enc/ESPN_PY.mpd",
+                "drm_scheme": "clearkey",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4cbc5f5cbac72d38371bb63309e4a9d2&key=dbc8de27da9726cd2e7659abb08e86ef",
+                "icono": "https://static.flow.com.ar/images/8457/CH_LOGO/60/40/0/0/29410352075256.png"
+            },
+            {
+                "name": "ESPN 3",
+                "uri": "https://chromecast.cvattv.com.ar/live/c3eds/ESPN3/SA_Live_dash_enc_2A/ESPN3.mpd",
+                "drm_scheme": "clearkey",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=ed53871dc50dcdc59a6271db3c8c51b3&key=0c21dc8629e3f2e6fe9efa8b80dc447e",
+                "icono": "https://static.flow.com.ar/images/8817/CH_LOGO/60/40/0/0/29145259072020.png"
+            },
+            {
+                "name": "ESPN 4",
+                "uri": "https://chromecast.cvattv.com.ar/live/c3eds/ESPNHD/SA_Live_dash_enc/ESPNHD.mpd",
+                "drm_scheme": "clearkey",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=cc8d44406ed6bf1898ad9f7a2d64f29e&key=fb85d059687ab0fc67805806204edbdf",
+                "icono": "https://static.flow.com.ar/images/279/CH_LOGO/60/40/0/0/43362732071132.png"
+            },
+            {
+                "name": "ESPN 5",
+                "uri": "https://chromecast.cvattv.com.ar/live/c7eds/ESPN4/SA_Live_dash_enc/ESPN4.mpd",
+                "drm_scheme": "clearkey",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=24f2b3e741f0d9e9a8d516faff38bddc&key=bbd3fd02fb104e1463ac528a13f67e4a",
+                "icono": "https://static.flow.com.ar/images/8897/CH_LOGO/60/40/0/0/5522598607348.png"
+            },
+            {
+                "name": "ESPN 6",
+                "uri": "https://chromecast.cvattv.com.ar/live/c7eds/FoxSports3_UY/SA_Live_dash_enc/FoxSports3_UY.mpd",
+                "drm_scheme": "clearkey",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=5fc7b662e69c0fbf8d39691166b1c919&key=89157cdd25df25d56f1ecccee3850888",
+                "icono": "https://static.flow.com.ar/images/9019/CH_LOGO/60/40/0/0/15905984073899.png"
+            },
+            {
+                "name": "ESPN 7",
+                "uri": "https://chromecast.cvattv.com.ar/live/c7eds/FoxSports2_UY/SA_Live_dash_enc/FoxSports2_UY.mpd",
+                "drm_scheme": "clearkey",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=5fc7b662e69c0fbf8d39691166b1c919&key=89157cdd25df25d56f1ecccee3850888",
+                "icono": "https://static.flow.com.ar/images/9017/CH_LOGO/60/40/0/0/12041360073463.png"
+            },
             {
                 "name": "ESPN XTRA",
                 "uri": "HYj1mQswC+Qz/gW3GNf2Z/KIvc13jEShsv8KSiABbVoxeFqtVqETGBnAq9uNBg7L5chkjz7VWCJfn0vVkPqIO+triyq3KdzqouziIs5geVs=",
