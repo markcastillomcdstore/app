@@ -5350,7 +5350,23 @@
                 "name": "PREMIERE",
                 "uri": "https://testphp07.alwaysdata.net/vimeofutplay/test/fuiste.m3u8",
                 "icono": "https://plataformas.news/online/nota_premiere-disponible-a-traves-de-amazon-prime-video.jpg"
-},{
+},
+{
+                "name": "PREMIERE 2",
+                "uri": "https://stream.mcdstore.store/stream/paraguay/tigo1/stream.m3u8",
+                "icono": "https://plataformas.news/online/nota_premiere-disponible-a-traves-de-amazon-prime-video.jpg"
+},
+{
+                "name": "PREMIERE 3",
+                "uri": "https://stream.mcdstore.store/stream/paraguay/tigo3/stream.m3u8",
+                "icono": "https://plataformas.news/online/nota_premiere-disponible-a-traves-de-amazon-prime-video.jpg"
+},
+{
+                "name": "PREMIERE 4",
+                "uri": "https://stream.mcdstore.store/stream/paraguay/tigoplus/stream.m3u8",
+                "icono": "https://plataformas.news/online/nota_premiere-disponible-a-traves-de-amazon-prime-video.jpg"
+},
+{
         "name": "GLOBO TV",
         "uri": "https://cdn-1.nxplay.com.br/GLOBO_SP_TK/index.m3u8",
         "icono": "https://i.ibb.co/CVr3QGv/fe7f8998db53725ac48f0deedc773692-anniversary-logo-visual-identity.jpg"
