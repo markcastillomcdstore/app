@@ -1,13 +1,4 @@
-[{
-        "name": "COPA SUDAMERICANA",
-        "samples": [
-            {
-                "name": "STAR+",
-                "uri": "hhttps://stream.mcdstore.store/stream/paraguay/star/master.m3u8?u=carlosrf2007&p=88787c15d03a8db4fb82735adc702335574cf32a192ed327fde7e9b478befe74",
-                "icono": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/star/1C38CAAEB79DAF5FC0CE8F7C1EB0473F67F4C98A94259A17C1E0846B812EDAEB/scale?width=1920&aspectRatio=1.78"
-            }
-        ]
-    },
+[
     {
         "name": "FORMULA 1",
         "samples": [
