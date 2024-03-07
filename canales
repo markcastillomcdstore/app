@@ -6776,14 +6776,7 @@
                 "name": "31| VTV PLUS",
                 "uri": "http://dnslivetv.online/live/TVplay25/WUXrYhAsgb/591496.M3U8",
                 "icono": "https://i.ibb.co/NSKbWSr/Logo-Campeonato-Uruguayo-Primera-Divisi-n-cropped-1.png"
-              },
-{
-        "name": "BE MAD",
-        "uri": "http://pylocalmillicom.lcdn.une.net.co/VMX4_widevine/rolling-buffer/TigoSportsHD/TigoSportsHD/transmux/index.m3u8?ccur_fmt_type=fmp4",
-        "drm_scheme": "widevine",
-        "drm_license_uri": "https://mrpw.milcom.vcas.na1.verimatrixcloud.net:8063?deviceId=OTZjZDZmNDAtMWUyZS0zMTVkLWE1OTEtODEzZjhiZGMzNjZh",
-        "icono": "http://78.47.174.211/logos/bemad.png"
-      }
+              }
             ]
           }
 ]
