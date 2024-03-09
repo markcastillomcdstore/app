@@ -1,14 +1,5 @@
 [
-    {
-        "name": "TESTEANDO EVENTOS",
-        "samples": [
-            {
-                "name": "EVENTOS 1",
-                "uri": "https://rpn3.bozztv.com/ssh101/ssh101/veguetonto/playlist.m3u8",
-                "icono": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/star/1C38CAAEB79DAF5FC0CE8F7C1EB0473F67F4C98A94259A17C1E0846B812EDAEB/scale?width=1920&aspectRatio=1.78"
-            }
-        ]
-    },
+
 {
         "name": "FORMULA 1",
         "samples": [
@@ -353,12 +344,12 @@
             },
            {
                 "name": "DE PELICULA",
-                "uri": "9YCSBYkJdRipbTodto1cRpkpqYaMdBsxxdchBw8J255dnC/XNvMcuu/8bcG4YJ86EqzHPtM6EHh79BPqtw0hWw==",
+                "uri": "9YCSBYkJdRipbTodto1cRpkpqYaMdBsxxdchBw8J255ZUX8t6OGT97VJ7lPusVyBfcQhV6ZVK6q3sCjZyEgARg==",
                 "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWXfAGVqsNpPcgAyj9nf2bWtO1fpO9Sz9lOPS5w7LPfQ&s"
             },
             {
                 "name": "DE PELICULA PLUS",
-                "uri": "9YCSBYkJdRipbTodto1cRpkpqYaMdBsxxdchBw8J256c2AAqDmrU/cJkHmfi7SDOEqzHPtM6EHh79BPqtw0hWw==",
+                "uri": "9YCSBYkJdRipbTodto1cRpkpqYaMdBsxxdchBw8J25758WpurWhbA0Nj1nWOYuuccj9Fin912bi/E71cERNrOQ==",
                 "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb6K9Nu_g8y3BKt-3NYBRCEHmL4kpo1M08QxtWfQdj5w&s"
             },
            {
