@@ -1966,6 +1966,14 @@
         "name": "⚽ DEPORTES ",
         "samples": [
 {
+        "name": "TUDN",
+        "uri": "https://linear.stvacdn.spectrum.com/LIVE/1131/dash/cenc/TUDNUH_8283/manifest.mpd",
+	       "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=85c8956b207c44a693d89984803c908b&key=8d8ff21c464506ef396356dd761f5ccd",
+       
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAWHburIML64lJDm6euJvjI-ll0P2tYjR6EWw9D-0Vcg&s"
+      },
+{
                 "name": "UFC",
                 "icono" : "https://logowik.com/content/uploads/images/ufc-ultimate-fighting-championship3349.jpg",
                 "uri": "https://dbrb49pjoymg4.cloudfront.net/10001/99951134/hls/master.m3u8?ads.xumo_channelId=99951134"
