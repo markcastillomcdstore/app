@@ -349,12 +349,12 @@
             },
             {
                 "name": "DE PELICULA HD",
-                "uri": "https://peertube.linuxrocks.online/static/streaming-playlists/hls/e8db50da-005f-4423-9ac8-e5724ddd71cc/master.m3u8",
+                "uri": "https://rpn3.bozztv.com/ssh101/ssh101/kaguasakitb/playlist.m3u8",
                 "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb6K9Nu_g8y3BKt-3NYBRCEHmL4kpo1M08QxtWfQdj5w&s"
             },
  {
                 "name": "DE PELICULA PLUS",
-                "uri": "https://livestreamb.prdv3.dlivecdn.com/playtv2024/1710128210/src/live.m3u8",
+                "uri": "https://rpn3.bozztv.com/ssh101/ssh101/kaguasakitc/playlist.m3u8",
                 "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJRnsNG-hjaFaWIyTIYmVnu2pnp53bIHkLbQ&usqp=CAU"
             }
           
