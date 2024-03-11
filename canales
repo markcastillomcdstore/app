@@ -344,17 +344,17 @@
             },
            {
                 "name": "DE PELICULA",
-                "uri": "hpDU4z0gRELc6n27IqpJV7M0JBjt3ixUA1DBd64I8XGP3ZcnjF3lwTGiOI3FUKuSal4pz3XncartrJ3mRaTk2UBcCjtyMYHlPaK/64JjeNae+tgIwH31h6FpGZmfinOaS8F0s8Qhu0f8PlxoB8xDJ0mEB89GQ/ZA6ZJwb5P5KZhHOJhr3i5qaDJA91Zq++O4",
+                "uri": "https://peertube.linuxrocks.online/static/streaming-playlists/hls/374561e1-c452-4428-a4bd-ec1a9948a429/master.m3u8",
                 "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWXfAGVqsNpPcgAyj9nf2bWtO1fpO9Sz9lOPS5w7LPfQ&s"
             },
             {
                 "name": "DE PELICULA HD",
-                "uri": "hpDU4z0gRELc6n27IqpJV7M0JBjt3ixUA1DBd64I8XGP3ZcnjF3lwTGiOI3FUKuSz/iayMqz1Qze7f9deyQnWkBcCjtyMYHlPaK/64JjeNae+tgIwH31h6FpGZmfinOaS8F0s8Qhu0f8PlxoB8xDJ0mEB89GQ/ZA6ZJwb5P5KZhHOJhr3i5qaDJA91Zq++O4",
+                "uri": "https://peertube.linuxrocks.online/static/streaming-playlists/hls/e8db50da-005f-4423-9ac8-e5724ddd71cc/master.m3u8",
                 "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb6K9Nu_g8y3BKt-3NYBRCEHmL4kpo1M08QxtWfQdj5w&s"
             },
  {
                 "name": "DE PELICULA PLUS",
-                "uri": "hpDU4z0gRELc6n27IqpJV7M0JBjt3ixUA1DBd64I8XGP3ZcnjF3lwTGiOI3FUKuScTIawY7UiGu7qd3c4HHjbdEHsdUScAVrbMK8Hr8qJJ2Yh8i1vHfDe92nbroxSsAhNb0qbLG2HnYOaXEysiIGeRUauV8pEl5L56Mx0uz2qszzhO8hB0wDZIBxEv4lfSz+",
+                "uri": "https://peertube.linuxrocks.online/static/streaming-playlists/hls/675a841e-620b-475b-bd9b-b45ba086293c/master.m3u8",
                 "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJRnsNG-hjaFaWIyTIYmVnu2pnp53bIHkLbQ&usqp=CAU"
             }
           
