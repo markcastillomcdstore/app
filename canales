@@ -9,10 +9,6 @@
 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=1061be12d303247426ec25e8369b2647&key=bd622b0e610295de3b0bccb850ccaaaa",
                 "uri": "https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/cqbcvgkb83/out/v1/4dbe05ecfb1540448d82d68eeebfbb1c/cenc.mpd",
                 "icono": "https://brandemia.org/contenido/subidas/2017/11/cabecera_formula1-960x640.jpg"
-            },
- {
-                "name": "F1",
-                "uri": "https://testphp07.alwaysdata.net/okru/7304047828693.m3u8"
             }
         ]
     },
@@ -348,17 +344,17 @@
             },
            {
                 "name": "DE PELICULA",
-                "uri": "https://rpn3.bozztv.com/ssh101/ssh101/kaguasakitv/playlist.m3u8",
+                "uri": "https://testphp07.alwaysdata.net/okru/7304101109461.m3u8",
                 "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWXfAGVqsNpPcgAyj9nf2bWtO1fpO9Sz9lOPS5w7LPfQ&s"
             },
             {
                 "name": "DE PELICULA HD",
-                "uri": "https://rpn3.bozztv.com/ssh101/ssh101/kaguasakitb/playlist.m3u8",
+                "uri": "https://testphp07.alwaysdata.net/okru/7304102223573.m3u8",
                 "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb6K9Nu_g8y3BKt-3NYBRCEHmL4kpo1M08QxtWfQdj5w&s"
             },
  {
                 "name": "DE PELICULA PLUS",
-                "uri": "https://rpn3.bozztv.com/ssh101/ssh101/kaguasakitc/playlist.m3u8",
+                "uri": "https://testphp07.alwaysdata.net/okru/7304100454101.m3u8",
                 "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJRnsNG-hjaFaWIyTIYmVnu2pnp53bIHkLbQ&usqp=CAU"
             }
           
