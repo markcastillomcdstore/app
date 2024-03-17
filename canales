@@ -1,11 +1,11 @@
 [
-
-{
-        "name": "ACTUALIZACION NECESARIA bit.ly/teleplay23",
+    {
+        "name": "ACTUALIZACION",
         "samples": [
             {
-                "name": "DESCARGUE LA APK DEL LINK bit.ly/teleplay23",
-                "icono": "https://assets.cdn.olympusat.com/wp-content/uploads/2020/10/TelePlay_Logo_BLANCO.png"
+                "name": "LINK DE LA APK bit.ly/teleplay23",
+                "icono": "https://assets.cdn.olympusat.com/wp-content/uploads/2020/10/TelePlay_Logo_BLANCO.png",
+                "uri": "https://assets.cdn.olympusat.com/wp-content/uploads/2020/10/TelePlay_Logo_BLANCO.png"
             }
         ]
     }
